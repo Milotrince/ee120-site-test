@@ -19,7 +19,7 @@
 # To skip numbering (e.g. for a blank box), add
 # "nonumber: True" as an attribute.
 
-projects:
+labs:
   - due: "Tue, Aug 30"
     title: "(optional)"
     link: #"projects/proj0/"
