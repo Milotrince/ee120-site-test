@@ -1,0 +1,58 @@
+#####################################
+# Instructions for updating website #
+#####################################
+
+# Written HW filepaths are all formatted based on the HW number.
+# Pad HW numbers, e.g. HW2 uses "02", not "2".
+# For example, the files for written HW2 should be placed at:
+#   - assets/homeworks/hw02.pdf
+#   - assets/homeworks/hw02-sols.pdf
+
+# To upload homework to the website:
+# 1. In this file, add the link to the electronic Gradescope assignment.
+# 2. Put the files in assets/homeworks using the filenames above.
+
+
+#####################################
+# Additional documentation          #
+#####################################
+
+# Each element in the array corresponds to one box on the website.
+# This includes boxes that are blank or don't have a homework.
+
+# The website automatically numbers each element in the array.
+# To skip numbering (e.g. for a blank box), add
+# "nonumber: True" as an attribute.
+
+homeworks:
+  - due: "Fri, Jan 20"
+    title: "(optional)"
+    electronic: 
+  - due: "Fri, Jan 27"
+    electronic: 
+  - due: "Fri, Feb 03"
+    electronic: 
+  - due: "Fri, Feb 10"
+    electronic: 
+  - due: "Fri, Feb 17"
+    electronic: 
+  - due: "Fri, Feb 24"
+    electronic: 
+  - rowspan: 2
+    nonumber: True
+  - rowspan: 3
+    due: "Fri, Mar 10"
+    electronic: 
+  - due: "Fri, Mar 17"
+    electronic: 
+  - due: "Fri, Mar 24"
+    electronic: 
+  - due: "Fri, Mar 31"
+    electronic: 
+  - due: "Fri, Apr 07"
+    electronic: 
+  - due: "Fri, Apr 14"
+    electronic: 
+  - rowspan: 2
+  - rowspan: 2
+  - rowspan: 2

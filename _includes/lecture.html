@@ -1,0 +1,17 @@
+<td class="{{ include.is_even }}" rowspan="{{ include.rowspan }}">
+{%- if include.element.nonumber -%}
+  {{ include.element.title | markdownify }}
+{%- elsif include.element.title -%}
+  {{ include.number }}. {{ include.element.title }}
+{%- endif -%}
+{%- if include.element.recording and include.element.slides -%}
+  <br>
+  <a href="{{ include.element.slides | relative_url }}">Slides</a> / <a href="{{ include.element.recording }}">Recording</a>
+{%- elsif include.element.slides -%}
+  <br>
+  <a href="{{ include.element.slides | relative_url }}">Slides</a>
+{%- elsif include.element.recording -%}
+  <br>
+  <a href="{{ include.element.recording }}">Recording</a>
+{%- endif -%}
+</td>
