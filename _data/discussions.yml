@@ -37,52 +37,38 @@
 # TODO: Document how we add walkthrough video links.
 
 discussions:
-  - title: "No discussion"
+  - title: "Discussion #1"
     nonumber: True
-    rowspan: 2
-  - title: "Uninformed Search"
-    solutions: True
-    regular_video: "https://www.youtube.com/watch?v=uA511mmN1G8"
-    examprep_video: "https://drive.google.com/file/d/1jFo5D5XNwG9lzDFVdkfpmi0KHjbPSTFk/view?usp=sharing"
-  - title: "Informed Search"
-    solutions: True
-    regular_video: "https://www.youtube.com/watch?v=F2P8HjSsOEc"
-    examprep_video: "https://drive.google.com/drive/folders/1KLnPRiDspcXRt0VigQAE0BMQ26U9fxv6?usp=sharing"
-  - title: "CSPs"
-    regular_video: "https://www.youtube.com/watch?v=dbzle2aQ_zs"
-    examprep_video: "https://drive.google.com/drive/folders/1K6LMMWV2wVbxSXYcNf7VE8HY2qvXAxYR?usp=sharing"
-  - title: "Adversarial Search"
-    regular_video: "https://drive.google.com/drive/u/1/folders/1-KPMhwG2aa8CnXgmTLS93vwnSc800gV9"
-    examprep_video: "https://drive.google.com/drive/folders/1Pmq4tOCs22QNJI-zMz5yXKaWsqnw3hvO?usp=sharing"
-  - title: "MDPs"
-    regular_video: "https://drive.google.com/drive/folders/1eOcIafVVb75r1ZqsaJvth2HKoKlXl_9o?usp=sharing"
-    examprep_video: "https://drive.google.com/drive/folders/1JeAPjMZMCsdO4-e-clK0JgcLL3d4VimJ"
-  - title: "Midterm Review"
-  - title: "No discussion"
-    rowspan: 3
+    worksheet: https://www.google.com/
+    solutions: https://www.google.com/
+    rowspan: 1
+  - title: "Discussion #2"
+    worksheet: https://www.google.com/
+    solutions: https://www.google.com/
     nonumber: True
-  - title: "Bayes' Nets"
-    regular_video: "https://drive.google.com/drive/folders/13aoHgHdSeRrPqTimQp9Df7Xzw0QGDHYA?usp=sharing"
-    examprep_video: "https://drive.google.com/drive/folders/1b7TLDvmHuBe8v7oncNIEwRkzwLmFvVR6?usp=sharing"
-  - title: "Bayes' Nets, VPIs"
-    regular_video: "https://drive.google.com/drive/folders/1hSsllAex79_w4PR2vJMxWwae8dbGPbmQ?usp=sharing"
-    examprep_video: "https://drive.google.com/drive/folders/18gqe60tzprIgvdg2O8sU53dYs9jadEGZ?usp=sharing"
-  - title: "HMMs, Particle Filtering"
-    regular_video: "https://drive.google.com/drive/folders/1qPAZzkjU0oMK8XY_LAgCdN5U4-fUja0B?usp=sharing"
-    examprep_video: "https://drive.google.com/drive/u/1/folders/1qtwU9u3aZhdwMytXj1PVkmz52Mo1U2qY"
-  - title: "Naive Bayes, Perceptron"
-    regular_video: "https://drive.google.com/drive/folders/1uyKsApH2p88ER_rjgTUETKqeKhotR7t0?usp=sharing"
-    examprep_video: "https://drive.google.com/drive/u/0/folders/16o8LbdMjQf-pgi2uaHH-SHoQZMYLsjmx"
-  - title: "Optimization, Neural Nets (no sections, old worksheets only)"
-    regular_video: "https://drive.google.com/drive/folders/1JLrBY_eArNHIBwMZPJvDri6hswYptIvT?usp=sharing"
-    examprep_video: "https://drive.google.com/drive/u/1/folders/1Hd9BZHsU-h-6KWvYs1WUiORfXBZLTpDH"
-  - title: "No Discussion"
+  - title: "Discussion #3"
     nonumber: True
-  - title: "Final Review (no sections, old worksheets only)"
-    games_video: "https://drive.google.com/file/d/18Kkm5hPOc0mI_4aoegyZDPTaxIajfRkF/view?usp=sharing"
-    rl_video: "https://drive.google.com/file/d/1_zyfIUx10W6BD0yW34ysfM2vFy5N1P4O/view?usp=sharing"
-    hmms_video: "https://drive.google.com/file/d/1XcOzIyTBSGjb4oYsrvDCIIoc4Mp6Tufy/view?usp=sharing"
-  - title: "No Discussion"
+  - title: "Discussion #4"
+    nonumber: True
+  - title: "Discussion #5"
+    nonumber: True
+  - title: "Discussion #6"
+    nonumber: True
+  - title: "Discussion #7"
+    nonumber: True
+  - title: "Discussion #8"
+    nonumber: True
+  - title: "Discussion #9"
+    nonumber: True
+  - title: "Discussion #10"
     nonumber: True
   - title: "No Discussion"
+    nonumber: True
+  - title: "Discussion #11"
+    nonumber: True
+  - title: "Discussion #12"
+    nonumber: True
+  - title: "Discussion #13"
+    nonumber: True
+  - title: "Discussion #14"
     nonumber: True

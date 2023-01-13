@@ -1,149 +1,113 @@
 lectures:
-  - title: "Intro to aAI, Rational Agents"
-    slides: https://www.google.com/
-    recording: 
-    textbook: Ch. 1, 2
-    note: #"/assets/lectures/cs188-sp23-note01.pdf"
-  - title: "State Spaces, Uninformed Search"
-    slides: #"/assets/lectures/cs188-sp23-lec02.pdf"
-    recording: 
-    textbook: Ch. 3.1–3.4
-    note: #"/assets/notes/cs188-sp23-note02.pdf"
-  - title: "Informed Search: A* and Heuristics"
-    slides: #"/assets/lectures/cs188-sp23-lec03.pdf"
-    recording: 
-    textbook: Ch. 3.5–3.6
-    note: #"/assets/notes/cs188-sp23-note03.pdf"
-  - title: "Local Search"
-    slides: #"/assets/lectures/cs188-sp23-lec04.pdf"
-    recording: 
-    textbook: Ch. 4.1–4.2
-    note: #"/assets/notes/cs188-sp23-note04.pdf"
-  - title: "Games: Trees, Minimax, Pruning"
-    slides: #"/assets/lectures/cs188-sp23-lec05.pdf" 
-    recording: 
-    textbook: Ch. 5.1–5.3
-    note: #"/assets/notes/cs188-sp23-note05.pdf"
-  - title: "Games: Expectimax, Monte Carlo Tree Search"
-    slides: #"/assets/lectures/cs188-sp23-lec06.pdf" 
-    recording: 
-    textbook: Ch. 5.4–5.5
-    note: #"/assets/notes/cs188-sp23-note06.pdf"
-  - title: "Markov Decision Processes: Intro"
-    slides: #"/assets/lectures/cs188-sp23-lec07.pdf"
-    recording: 
-    textbook: Ch. 17.1
-    note: #"/assets/notes/cs188-sp23-note07.pdf"
-  - title: "MDPs: Dynamic Programming"
-    slides: #"/assets/lectures/cs188-sp23-lec08.pdf"
-    recording: 
-    textbook: Ch. 17.2
-    note: #"/assets/notes/cs188-sp23-note08.pdf"
-  - title: "Propositional Logic and Planning"
-    slides: #"/assets/lectures/cs188-sp23-lec09.pdf"
-    recording: 
-    textbook: Ch. 7.1–7.4
-    note: #"/assets/notes/cs188-sp23-note09.pdf"
-  - title: "Logical Inference, Theorem Proving"
-    slides: #"/assets/lectures/cs188-sp23-lec10.pdf"
-    recording: 
-    textbook: Ch. 7.5–7.7
-    note: #"/assets/notes/cs188-sp23-note10.pdf"
-  - title: "Boolean Satisfiability, DPLL"
-    slides: #"/assets/lectures/cs188-sp23-lec11.pdf"
-    recording: 
-    textbook: Ch. 8.1–8.2
-    note: #"/assets/notes/cs188-sp23-note11.pdf"
-  - title: "First Order Logic"
-    slides: #"/assets/lectures/cs188-sp23-lec12.pdf"
-    recording: 
-    textbook: skim Ch. 9.1–9.4
-    note: #"/assets/notes/cs188-sp23-note12.pdf"
-  - title: "Probability Review, Bayesian Networks"
-    slides: #"/assets/lectures/cs188-sp23-lec13.pdf"
-    recording: 
-    textbook: Ch. 13.1
-    note: #"/assets/notes/cs188-sp23-note13.pdf"
-  - title: "Bayes Nets: Syntax and Semantics"
-    slides: #"/assets/lectures/cs188-sp23-lec14.pdf" 
-    recording: 
-    textbook: Ch. 13.2
-    note: #"/assets/notes/cs188-sp23-note14.pdf"
-  - title: 'Midterm (8–10pm PT)'
+  - title: "Lecture 1"
     nonumber: True
-  - title: "Bayes Nets: Variable Elimination"
-    slides: #"/assets/lectures/cs188-sp23-lec15.pdf" 
+    edThread: https://www.google.com/
+    recording: https://www.google.com/
+  - title: "Lecture 2"
+    nonumber: True
+    edThread: https://www.google.com/
+    recording: https://www.google.com/
+  - title: "Lecture 3"
+    nonumber: True
+    edThread: 
     recording: 
-    textbook: Ch. 13.3
-    note: #"/assets/notes/cs188-sp23-note15.pdf"
-  - title: "Bayes Nets: Sampling"
-    slides: #"/assets/lectures/cs188-sp23-lec16.pdf" 
+  - title: "Lecture 4"
+    nonumber: True
+    edThread: 
     recording: 
-    textbook: Ch. 13.4
-    note: #"/assets/notes/cs188-sp23-note16.pdf"
-  - title: "Markov Chains, HMMs, filtering, Viterbi"
-    slides: #"/assets/lectures/cs188-sp23-lec17.pdf" 
+  - title: "Lecture 5"
+    nonumber: True
+    edThread:
     recording: 
-    textbook: Ch. 14.1–14.5
-    note: #"/assets/notes/cs188-sp23-note17.pdf"
-  - title: "Dynamic Bayes Nets, Particle Filtering"
-    slides: #"/assets/lectures/cs188-sp23-lec18.pdf"
+  - title: "Lecture 6 (QUIZ 1)"
+    nonumber: True
+    edThread: 
     recording: 
-    textbook: Ch. 16.1–16.3
-    note: #"/assets/notes/cs188-sp23-note18.pdf"
-  - title: "Utility Theory, Rationality, Decisions"
-    slides: #"/assets/lectures/cs188-sp23-lec19.pdf"
+  - title: "Lecture 7"
+    nonumber: True
+    edThread: 
     recording: 
-    textbook: Ch. 16.1–16.3
-    note: #"/assets/notes/cs188-sp23-note19.pdf"
-  - title: "Decision Networks and VPI"
-    slides: #"/assets/lectures/cs188-sp23-lec20.pdf"
+  - title: "Lecture 8"
+    nonumber: True
+    edThread: 
     recording: 
-    textbook: Ch. 16.5–16.7
-    note: #"/assets/notes/cs188-sp23-note20.pdf"
+  - title: "Lecture 9"
+    nonumber: True
+    edThread: 
+    recording: 
+  - title: "No Lecture (Academic Holiday)"
+    edThread: 
+    recording: 
+    nonumber: True
+  - title: "Lecture 10"
+    nonumber: True
+    edThread: 
+    recording: 
+  - title: "Lecture 11"
+    nonumber: True
+    edThread: 
+    recording: 
+  - title: "Lecture 12"
+    nonumber: True
+    edThread: 
+    recording: 
+  - title: "Lecture 13"
+    nonumber: True
+    edThread: 
+    recording: 
+  - title: 'Lecture 14'
+    nonumber: True
+    edThread: 
+    recording: 
+  - title: "Lecture 15"
+    nonumber: True
+    edThread:
+    recording: 
+  - title: "Lecture 16"
+    nonumber: True
+    edThread:
+    recording: 
+  - title: "Lecture 17 (MIDTERM 1)"
+    nonumber: True
+    edThread: 
+    recording: 
+  - title: "Lecture 18"
+    nonumber: True
+    edThread: 
+    recording: 
   - title: "No lecture (Spring Break)"
     nonumber: True
   - title: "No lecture (Spring Break)"
     nonumber: True
-  - title: "Machine Learning I"
-    slides: #"/assets/lectures/cs188-sp23-lec21.pdf"
-    recording: 
-    textbook: Ch. 19.1–19.3
-    note: #"/assets/notes/cs188-sp23-note21.pdf"
-  - title: "Machine Learning II"
-    slides: #"/assets/lectures/cs188-sp23-lec22.pdf"
-    recording: 
-    textbook: Ch. 20.1–20.6
-    note: #"/assets/notes/cs188-sp23-note22.pdf"
-  - title: "Neural Networks"
-    slides: #"/assets/lectures/cs188-sp23-lec23.pdf"
-    recording: 
-    textbook: Ch 21.1–21.5
-    note: #"/assets/notes/cs188-sp23-note23.pdf"
-  - title: "Reinforcement Learning"
-    slides: #"/assets/lectures/cs188-sp23-lec24.pdf"
-    recording: 
-    textbook: Ch 22.1–22.6
-    note: #"/assets/lectures/cs188-sp23-note24.pdf"
-  - title: "Advanced Topics I"
-    slides: #"/assets/lectures/cs188-sp23-lec25.pdf"
-    recording: 
-    textbook: 
-    note: #"/assets/lectures/cs188-sp23-note25.pdf"
-  - title: "Advanced Topics II"
-    slides: 
-    recording: 
-    textbook: 
-    note: 
-  - title: "Advanced Topics III"
-    slides: 
-    recording: 
-    textbook: 
-    note: 
-  - title: "AI Ethics"
-    slides: 
-    recording: 
-    textbook: 
-    note: 
-  - title: "Final Exam (11:30am–2:30pm PT)"
+  - title: "Lecture 19"
     nonumber: True
+    edThread: 
+    recording: 
+  - title: "Lecture 20"
+    nonumber: True
+    edThread: 
+    recording: 
+  - title: "Lecture 21"
+    nonumber: True
+    edThread: 
+    recording: 
+  - title: "Lecture 22"
+    nonumber: True
+    edThread: 
+    recording: 
+  - title: "Lecture 23"
+    nonumber: True
+    edThread: 
+    recording: 
+  - title: "Lecture 24"
+    nonumber: True
+    edThread:
+    recording: 
+  - title: "Lecture 25"
+    nonumber: True
+    edThread: 
+    recording: 
+  - title: "Lecture 26 (MIDTERM 2)"
+    edThread: 
+    nonumber: True
+    recording: 

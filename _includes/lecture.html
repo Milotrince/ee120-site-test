@@ -4,12 +4,12 @@
 {%- elsif include.element.title -%}
   {{ include.number }}. {{ include.element.title }}
 {%- endif -%}
-{%- if include.element.recording and include.element.slides -%}
+{%- if include.element.recording and include.element.edThread -%}
   <br>
-  <a href="{{ include.element.slides | relative_url }}">Slides</a> / <a href="{{ include.element.recording }}">Recording</a>
-{%- elsif include.element.slides -%}
+  <a href="{{ include.element.edThread | relative_url }}">Ed Thread</a> / <a href="{{ include.element.recording }}">Recording</a>
+{%- elsif include.element.edThread -%}
   <br>
-  <a href="{{ include.element.slides | relative_url }}">Slides</a>
+  <a href="{{ include.element.edThread | relative_url }}">Ed Thread</a>
 {%- elsif include.element.recording -%}
   <br>
   <a href="{{ include.element.recording }}">Recording</a>

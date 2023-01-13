@@ -27,6 +27,8 @@ labs:
   - due: "Fri, Sep 09"
     link: #"projects/proj1/"
     rowspan: 4
+    lab: https://www.google.com/
+    solutions: https://www.instagram.com/
   - due: "Thu, Sep 22"
     link: #"projects/proj2/"
     rowspan: 4
@@ -41,5 +43,3 @@ labs:
   - due: "Thu, Dec 01"
     link: #"projects/proj5/"
     rowspan: 6
-  - rowspan: 5
-    nonumber: True

@@ -28,8 +28,10 @@ homeworks:
   - due: "Fri, Jan 20"
     title: "(optional)"
     electronic: 
+    rowspan: 1
   - due: "Fri, Jan 27"
     electronic: 
+    homework: https://www.google.com/
   - due: "Fri, Feb 03"
     electronic: 
   - due: "Fri, Feb 10"
@@ -37,10 +39,11 @@ homeworks:
   - due: "Fri, Feb 17"
     electronic: 
   - due: "Fri, Feb 24"
-    electronic: 
+    homework: https://www.google.com/
+    solutions: https://www.google.com/
   - rowspan: 2
     nonumber: True
-  - rowspan: 3
+  - rowspan: 2
     due: "Fri, Mar 10"
     electronic: 
   - due: "Fri, Mar 17"

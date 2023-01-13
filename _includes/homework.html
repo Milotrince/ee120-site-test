@@ -10,35 +10,6 @@
 <td class="{{ include.is_even }}" rowspan="{{ include.rowspan }}">
 
 {%- comment -%}
-  - Build written HW filenames automatically from the HW number.
-  - First pad HW number (2-->02), then create a base filepath,
-    then create filenames (see homeworks.yml for more on filenames).
-{%- endcomment -%}
-{%- assign filenumber = include.number | prepend: '00' | slice: -2, 2 -%}
-{%- assign filename_base = "/assets/homeworks/hw" | append: filenumber -%}
-{%- assign filename_hw = filename_base | append: ".pdf" -%}
-{%- assign filename_tex = filename_base | append: "-tex.zip" -%}
-{%- assign filename_sols = filename_base | append: "-sols.pdf" -%}
-
-{%- comment -%}
-  - Automatically check if files exist.
-{%- endcomment -%}
-{%- assign hw_exists = false -%}
-{%- assign sols_exists = false -%}
-{%- assign tex_exists = false -%}
-{%- for page in site.static_files -%}
-  {%- if page.path == filename_hw -%}
-    {%- assign hw_exists = true -%}
-  {%- endif -%}
-  {%- if page.path == filename_sols -%}
-    {%- assign sols_exists = true -%}
-  {%- endif -%}
-  {%- if page.path == filename_tex -%}
-    {%- assign tex_exists = true -%}
-  {%- endif -%}
-{%- endfor -%}
-
-{%- comment -%}
   - TODO: Currently using nonumber to figure out when not to auto-check for files.
     Is there a cleaner way?
   - TODO: Currently using "due" to figure out whether to display HW.
@@ -50,24 +21,16 @@
   HW{{ include.number }} {{ include.element.title }}
   <br>
   (due {{ include.element.due }})
-
-  {%- if include.element.electronic -%}
-  <br>
-  <a href="{{ include.element.electronic }}">Electronic</a>
-  {%- endif -%}
-
-  {%- if hw_exists -%}
-  <br>
-  <a href="{{ filename_hw | relative_url }}">Written</a>
-  {%- endif -%}
-
-  {%- if tex_exists -%}
-  &nbsp;(<a href="{{ filename_tex | relative_url }}">TeX</a>)
-  {%- endif -%}
-
-  {%- if sols_exists -%}
-  <br>
-  <a href="{{ filename_sols | relative_url }}">Solutions</a>
-  {%- endif -%}
 {%- endif -%}
+
+{%- if include.element.homework -%}
+<br>
+<a href="{{ include.element.homework }}">Homework</a>
+{%- endif -%}
+
+{%- if include.element.solutions -%}
+<br>
+<a href="{{ include.element.solutions }}">Solutions</a>
+{%- endif -%}
+
 </td>
