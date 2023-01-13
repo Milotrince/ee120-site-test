@@ -27,10 +27,8 @@
 homeworks:
   - due: "Fri, Jan 20"
     title: "(optional)"
-    electronic: 
     rowspan: 1
   - due: "Fri, Jan 27"
-    electronic: 
     homework: https://www.google.com/
   - due: "Fri, Feb 03"
     electronic: 

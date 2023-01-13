@@ -1,7 +1,7 @@
 # Follow the steps on https://fullcalendar.io/docs/v4/google-calendar until "Getting Set Up" to obtain the google_calendar_id.
 
 google_api_key: AIzaSyBM2NnPMx5rgCK8fZaG5X1qNcSiW-CRkRg
-google_calendar_id: c_oamupt9o327cs8brmkmhjq2tis@group.calendar.google.com # replace this
+google_calendar_id: c_oa13tccmnlei8tvfbsc1ef0qck@group.calendar.google.com # replace this
 min_time: '09:00:00'
 max_time: '21:00:00'
 
@@ -28,4 +28,4 @@ event_types:
     color: '#888888'
     text_color: '#ffffff'
 
-remove_prefix: "[CS 188]"
+remove_prefix: "[EE 120]"

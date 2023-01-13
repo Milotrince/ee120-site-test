@@ -2,9 +2,10 @@
 layout: page
 title: Resources
 nav_order: 3
+nav_exclude: true # no resources tab
 ---
 
-# Resources
+<!-- # Resources
 
 ## Past Exams
 
@@ -180,4 +181,4 @@ nav_order: 3
 
 ## Past Semesters' Websites
 
-See [https://inst.eecs.berkeley.edu/~cs188/archives](https://inst.eecs.berkeley.edu/~cs188/archives).
+See [https://inst.eecs.berkeley.edu/~cs188/archives](https://inst.eecs.berkeley.edu/~cs188/archives). -->

@@ -37,6 +37,9 @@ footer_content:
 # Collections for website data
 collections:
   staffers:
+    - Yousef Helal:
+        role: 'Head TA'
+
   modules:
   schedules:
   announcements:
