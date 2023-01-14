@@ -5,7 +5,7 @@
 # The first and last day of class, respectively.
 # Due to time zone issues, these might not show up exactly on the calendar,
 # so some fiddling is necessary.
-start_date: 2023-01-19
+start_date: 2023-01-18
 end_date: 2023-04-27
 
 # Any other days you want to appear on the calendar (e.g. for one-time events
@@ -33,7 +33,7 @@ class_days: ['1', '3']
 starting_lecture_number: '1'
 starting_readings_number: '1'
 starting_discussion_number: '1'
-starting_homework_number: '0'
+starting_homework_number: '1'
 starting_lab_number: '0'
 # Is the first week of class Week 0 or Week 1? We currently don't support
 # starting at any other week number, so pick '0' or '1' here.
@@ -53,7 +53,7 @@ default_discussion_rowspan: '2'
 default_homework_rowspan: '2'
 # lab rowspans are too variable, so we just set the default to 1 and
 # never use the default (always manually specifying the rowspan).
-default_lab_rowspan: '1'
+default_lab_rowspan: '4'
 
 
 #######################################################
