@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: EE 120 Spring 2023
 description: Signals and Systems at UC Berkeley
-baseurl: '/~ee120/sp23' # (temporary) the subpath of your site, e.g. /blog
-url: https://inst.eecs.berkeley.edu
+baseurl: /course-site # '/~ee120/sp23' # (temporary) the subpath of your site, e.g. /blog
+url: https://ee120-course-staff.github.io # https://inst.eecs.berkeley.edu
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor"]
 
 # Theme settings
