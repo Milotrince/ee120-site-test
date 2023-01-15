@@ -9,7 +9,7 @@ This site is under construction. All dates and policies are tentative until this
 </p>
 {%- endif -%}
 
-<!-- <img align="right" alt="CS188 Robot Waving" width="200px" src="assets/images/logo.png"> -->
+<img align="right" alt="EE120 Logo" width="150px" src="assets/images/logo.png">
 
 # {{ site.title }}
 

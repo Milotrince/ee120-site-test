@@ -1,45 +1,18 @@
 #####################################
 # Instructions for updating website #
 #####################################
-
-# To add a project to the website:
-# 1. Upload any necessary files to /assets/projects.
-# 2. Put the project spec in the projects folder (if not already there).
-# 3. In this file, uncomment the "link" attribute to display a link to the spec.
-
-
-#####################################
-# Additional documentation          #
-#####################################
-
-# Each element in the array corresponds to one box on the website.
-# This includes boxes that are blank or don't have a homework.
-
-# The website automatically numbers each element in the array.
-# To skip numbering (e.g. for a blank box), add
-# "nonumber: True" as an attribute.
+# 1. Add another selection to this data file, with the necassary information
+#   a. Follow the format provided by previous examples
 
 labs:
+  # - due: "due date"
+  #   title: "title of the lab"
+  #   lab: link to the lab notebook
+  #   solutions: link to the lab solutions
+  #   selfGrade: link to the selfGrade form
   - due: "Tue, Aug 30"
     title: "(optional)"
-    link: #"projects/proj0/"
+    lab: https://www.fotmob.com/
+    solutions: https://github.com/
+    selfGrade: https://ee120-course-staff.github.io/selfgrade-form/
     rowspan: 1
-  - due: "Fri, Sep 09"
-    link: #"projects/proj1/"
-    rowspan: 4
-    lab: https://www.google.com/
-    solutions: https://www.instagram.com/
-  - due: "Thu, Sep 22"
-    link: #"projects/proj2/"
-    rowspan: 4
-  - due: "Tue, Oct 4"
-    link: #"projects/proj3/"
-    rowspan: 4
-  - rowspan: 3
-    nonumber: True
-  - due: "Tue, Nov 08"
-    link: #"projects/proj4/"
-    rowspan: 8
-  - due: "Thu, Dec 01"
-    link: #"projects/proj5/"
-    rowspan: 6

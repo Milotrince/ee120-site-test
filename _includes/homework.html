@@ -18,7 +18,7 @@
 {%- if include.element.nonumber -%}
   {{ include.element.title }}
 {%- elsif include.element.due -%}
-  HW{{ include.number }} {{ include.element.title }}
+  Homework #{{ include.number }} {{ include.element.title }}
   <br>
   (due {{ include.element.due }})
 {%- endif -%}
@@ -31,6 +31,11 @@
 {%- if include.element.solutions -%}
 <br>
 <a href="{{ include.element.solutions }}">Solutions</a>
+{%- endif -%}
+
+{%- if include.element.selfGrade -%}
+<br>
+<a href="{{ include.element.selfGrade }}">Self-Grade Form</a>
 {%- endif -%}
 
 </td>

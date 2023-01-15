@@ -1,8 +1,8 @@
 <td rowspan="{{ include.rowspan }}">
 {%- if include.element.nonumber -%}
   {{ include.element.title }}
-{%- elsif include.element.link -%}
-  <a href="{{ include.element.link | relative_url }}">Lab {{ include.number }}</a>
+{%- elsif include.element.title -%}
+  Lab {{ include.number }} {{ include.element.title }}
   <br>
   (due {{ include.element.due }})
 {%- elsif include.element.due -%}

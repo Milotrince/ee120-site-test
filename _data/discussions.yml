@@ -1,74 +1,22 @@
 #####################################
 # Instructions for updating website #
 #####################################
+# 1. Add another selection to this data file, with the necassary information
+#   a. Follow the format provided by previous examples
 
-# Discussion filepaths are all formatted based on the discussion number.
-# Pad discussion numbers, e.g. discussion 2 uses "02", not "2".
-# For example, the files for discussion 2 should be placed at:
-#   - /assets/discussions/disc02-regular.pdf
-#   - /assets/discussions/disc02-regular-sols.pdf
-#   - /assets/discussions/disc02-examprep.pdf
-#   - /assets/discussions/disc02-examprep-sols.pdf
-
-# To upload discussion worksheets and solutions to the website, just
-# put the files in assets/discussions using the filenames above.
-
-
-#####################################
-# Additional documentation          #
-#####################################
-
-# Each element in the array corresponds to one box on the website.
-# This includes boxes that are blank or don't have a discussion.
-# By default, each box spans 2 rows (edit the default in syllabus.yml).
-# To override this, use the "rowspan" attribute to resize a box.
-
-# The website automatically numbers each element in the array.
-# To skip numbering (e.g. for a "no discussion" box), add
-# "nonumber: True" as an attribute.
-
-# We currently assume that every week has both regular and exam-prep
-# sections. If that's not true, update discussion.html.
-
-# If solutions=True, then the value of "released" is ignored.
-# If solutions=False, then we check if released=True to figure out
-# whether to dipslay links to worksheets.
-
-# TODO: Document how we add walkthrough video links.
 
 discussions:
+  # - title: title of the discussion
+  #   nonumber: True
+  #   worksheet: link to the discusstion worksheet
+  #   solutions: link to the discussion solutions link
+  #   walkthrough: link to the walkthrough video
+  #   nonumber: True # always add this line
   - title: "Discussion #1"
-    nonumber: True
     worksheet: https://www.google.com/
     solutions: https://www.google.com/
+    walkthrough: https://www.fotmob.com/
+    nonumber: True
     rowspan: 1
-  - title: "Discussion #2"
-    worksheet: https://www.google.com/
-    solutions: https://www.google.com/
-    nonumber: True
-  - title: "Discussion #3"
-    nonumber: True
-  - title: "Discussion #4"
-    nonumber: True
-  - title: "Discussion #5"
-    nonumber: True
-  - title: "Discussion #6"
-    nonumber: True
-  - title: "Discussion #7"
-    nonumber: True
-  - title: "Discussion #8"
-    nonumber: True
-  - title: "Discussion #9"
-    nonumber: True
-  - title: "Discussion #10"
-    nonumber: True
-  - title: "No Discussion"
-    nonumber: True
-  - title: "Discussion #11"
-    nonumber: True
-  - title: "Discussion #12"
-    nonumber: True
-  - title: "Discussion #13"
-    nonumber: True
-  - title: "Discussion #14"
-    nonumber: True
+
+
