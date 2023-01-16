@@ -25,6 +25,7 @@ lectures:
     recording: 
   - title: "Lecture 6 (QUIZ 1)"
     nonumber: True
+    isExam: True
     edThread: 
     recording: 
   - title: "Lecture 7"
@@ -73,6 +74,7 @@ lectures:
     recording: 
   - title: "Lecture 17 (MIDTERM 1)"
     nonumber: True
+    isExam: True
     edThread: 
     recording: 
   - title: "Lecture 18"
@@ -114,4 +116,5 @@ lectures:
   - title: "Lecture 26 (MIDTERM 2)"
     edThread: 
     nonumber: True
+    isExam: True
     recording: 

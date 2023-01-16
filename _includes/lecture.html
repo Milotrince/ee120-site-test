@@ -1,9 +1,15 @@
 <td class="{{ include.is_even }}" rowspan="{{ include.rowspan }}">
-{%- if include.element.nonumber -%}
+
+{%- if include.element.nonumber and include.element.isExam-%}
+  <b>{{ include.element.title | markdownify }}</b>
+{%- elsif include.element.title and include.element.isExam -%}
+  <b>{{ include.number }}. {{ include.element.title }}</b>
+{%- elsif include.element.nonumber -%}
   {{ include.element.title | markdownify }}
 {%- elsif include.element.title -%}
   {{ include.number }}. {{ include.element.title }}
 {%- endif -%}
+
 {%- if include.element.recording and include.element.edThread -%}
   <br>
   <a href="{{ include.element.edThread | relative_url }}">Ed Thread</a> / <a href="{{ include.element.recording }}">Recording</a>
