@@ -15,7 +15,7 @@ This site is under construction. All dates and policies are tentative until this
 
 All times listed are in your local time zone.
 
-[Open in Google Calendar](https://calendar.google.com/calendar/embed?src=c_oa13tccmnlei8tvfbsc1ef0qck%40group.calendar.google.com&ctz=America%2FLos_Angeles){: .btn .btn-outline .fs-3 }
+[Open in Google Calendar](https://calendar.google.com/calendar/embed?src=c_d448b953776268f2bd9d8ed6a9ccc53f322e6c3e5659fceb44b7ddb18c99050f%40group.calendar.google.com&ctz=America%2FLos_Angeles){: .btn .btn-outline .fs-3 }
 
 <div id='calendar'></div>
 <script>

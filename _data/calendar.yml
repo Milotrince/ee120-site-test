@@ -1,7 +1,7 @@
 # Follow the steps on https://fullcalendar.io/docs/v4/google-calendar until "Getting Set Up" to obtain the google_calendar_id.
 
 google_api_key: AIzaSyBM2NnPMx5rgCK8fZaG5X1qNcSiW-CRkRg
-google_calendar_id: c_oa13tccmnlei8tvfbsc1ef0qck@group.calendar.google.com # replace this
+google_calendar_id: c_d448b953776268f2bd9d8ed6a9ccc53f322e6c3e5659fceb44b7ddb18c99050f@group.calendar.google.com # replace this
 min_time: '09:00:00'
 max_time: '21:00:00'
 
