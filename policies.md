@@ -23,154 +23,249 @@ This site is under construction. All dates and policies are tentative until this
 
 ---
 
-## Description
+<!-----
 
-Continuous and discrete-time transform analysis techniques with illustrative applications. Linear and time-invariant systems, transfer functions. Fourier series, Fourier transform, Laplace and Z-transforms. Sampling and reconstruction. Solution of differential and difference equations using transforms. Frequency response, Bode plots, stability analysis. Illustrated by analysis of communication systems and feedback control systems. 
+Yay, no errors, warnings, or alerts!
 
----
-
-<!-- ## Enrollment
-
-Course staff does not control enrollment; we have to follow [the department's Fall 2022 enrollment policies](http://www.eecs.berkeley.edu/Policies/enrollment.shtml). We do not have any enrollment codes or any other way to let non-CS majors into the class. If you have any questions about enrollment, please reach out to the emails listed in the enrollment policies page.
-
-Concurrent enrollment applications will be processed in the second week of classes. We will add all pending concurrent enrollment students to the course so you can follow along the first few weeks.
-
---- -->
-
-## Prerequisites
-
-We reccomend having some previous linear algebra/circuits experience (either in the form of EECS16A/B or other relavant courses). before taking EE120. We also reccomend having some previous programing experience (preferably in Python) to use on the labs.
+Conversion time: 0.854 seconds.
 
 
----
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β34
+* Tue Jan 17 2023 10:48:16 GMT-0800 (PST)
+* Source doc: Syllabus
+----->
+
+
 
 ## Communication
 
-The course schedule and all resources (e.g. homework, discussion worksheets) will be posted on the course website: [{{ '/' | absolute_url }}](/).
+All official course communication will be through Ed and bCourses. We will also maintain the course website for your convenience.
 
-All course announcements and content/logistics questions will happen on either Ed (the course discussion forum) or BCourses. We will be automatically enrolling everyone in these two platforms.
+For any administrative concerns, please **email** **[ee120-sp23-admin@lists.berkeley.edu](mailto:ee120-sp23-admin@lists.berkeley.edu)** **with [EE 120] in the subject line**. This will reach both Babak and the head TAs, Naomi and Yousef. 
 
-If you need to contact the course staff privately, please email e120-sp23-admin@lists.berkeley.edu.
-
----
-
-## Labs
-
-There are 5 labs, submitted on Gradescope. We'll enroll all students in Gradescope automatically.
+For emergency communication during exams, email **[ee120-sp23@lists.berkeley.edu](mailto:ee120-sp23@lists.berkeley.edu)**. This reaches all staff, including Babak.
 
 
----
+## Gradescope
 
-## Homeworks
+All assignments will be submitted through Gradescope. The code to join can be found on Ed.
 
-There will be 8-12 Homeworks spread throughout the semester. 
 
-Homeworks cannot be turned in late unless you have extensions or accommodations. However, we will drop your lowest homework score.
+## Lecture
 
-Each homework has two components, described below:
+**Time**: Mon/Wed 3-5pm
 
-### Written HW
+**Location**: Physics Building 4 (directly east of the Campanile; the room should be near the entrance to the building)
 
-The Homework Part. They will be due the Friday the week after they are due at 11:59pm, with a grace period until Sunday at 11:59pm
+**Recordings**: Will be posted to the course website and “Lecture Index” Ed thread.
 
-### HW Self-Grade
+**Lecture Threads**: There will be an Ed thread for each lecture where you can ask questions about lecture topics.
 
-A self-grade that you will complete after each HW.
 
----
+## Discussion
 
-## Accommodations and Extensions
+There are 4 discussion sections, all on Friday. **You can attend any discussion time you would like as long as it is not oversubscribed**.
 
-If you have any extentuating circumstances or otherwise, and feel that you would need an extension, please make a post on Ed.
+Discussions will be in-person, but we will post worksheet walkthrough videos after discussion. Walkthrough videos will be available in the Media Gallery on bCourses.
 
-The Disabled Students' Program (DSP) supports disabled students at UC Berkeley. They offer a wide range of services and accommodations. If you are facing barriers in school due to a disability, apply to DSP! Students registered with DSP can expect to receive an onboarding email within a week of sending us your formal letter of accommodation through the AIM portal.
+We will post the worksheet to bCourses and Ed on Friday mornings, along with the TAs that will teach discussion that week.
 
----
+**Times and Locations:**
 
-## Lectures
 
-**Lecture Time**: ________.
 
-Lectures will be in-person, with recordings posted after (as soon as they are available, hopefully the evening of lecture) to YouTube. Links to lecture recordings will be posted on Ed.
+* Fri 11am-12pm in Cory 540AB
+* Fri 12-1pm in Wheeler 30
+* Fri 1-2pm in Wheeler 30
+* Fri 2-3pm in Wheeler 130
 
-We will post a thread on Ed at the end of each lecture where you can ask any questions you have.
+**Note: we will not be offering the Fri 8-9am option**.
 
-If at any time you are feeling ill or need to isolate yourself due to close contact with someone who tests positive for COVID, please do NOT come to live lecture or discussion. You can watch the lecture recordings and discussion walkthrough videos instead, and let us know promptly if you would like further support.
+**Attendance**: We do _not_ take attendance for lecture or discussion. That being said, we highly recommend that you attend both as frequently as possible to stay caught up with the material.
 
----
+**The first discussion is Friday, January 20th**.
 
-## Discussions
 
-**Discussion Times**: ______
+### COVID Reminder
 
-Two TAs will teach discussion each week. We will post the worksheet to bCourses and Ed on Friday mornings, along with the TAs that will teach discussion that week. Attend whichever section you would like so long as it is not oversubscribed. Discussions will be in-person, but we will post worksheet walkthrough videos after discussion. The first discussion is on Friday, January 20. 
+**If at any time you are feeling ill or need to isolate yourself due to close contact with someone who tests positive for COVID, please do NOT come to live lecture or discussion**. You can watch the lecture recordings and discussion walkthrough videos instead, and let us know promptly if you would like further support.
 
----
 
-## Office Hours
+## Homework
 
-Each TA will offer office hours every week. Their times and locations can be found at _____. 
+To enhance and gauge your fluency with the course content, we will have two types of homework assignments: problem sets and labs ([Jupyter notebook](https://jupyter.org/)-based coding assignments). You can expect **approximately one problem set per week**, and **5 labs** throughout the semester.
 
-Office hours will begin the week of 1/23.
 
----
+### Drops
 
-## Exams
+**We will automatically drop the two lowest problem scores and one lowest lab score from your final grade**.
 
-The quiz is on Monday Febuary 6th, from __pm to __pm PT.
 
-Midterm 1 is on Monday March 20th, from __pm to __pm PT.
+### Timeline
 
-Midterm 2 is on Wendesday April 26th, from __pm to __pm PT.
+As we cannot avoid releasing problem sets and labs in concurrent weeks, we will give you two weeks for each lab: **they will be released on Fridays and due two weeks later on Friday at 11:59pm.**
 
----
+
+### Problem Set Logistics
+
+**Release**: Problem sets will typically be released on **Fridays** via bCourses. We will also announce on Ed when problem sets are released.
+
+**Submission**: Problem sets will be due the following **Friday at 11:59pm** (you have **one week** to complete the assignment). 
+
+You will submit your work through **Gradescope**. You have several options for scanning and submitting your work:
+
+
+
+1. Print out the homework document and write your solutions on the printout. Then upload a PDF file of the scan.
+2. Write your solutions on this PDF file using a tablet device. Then upload a PDF file.
+3. Use your own sheets of paper, but demarcate clearly the space for each problem, part, and subpart. You must not exceed the amount of space allotted in this official problem set document. Then upload a PDF file.
+
+
+### Lab Logistics
+
+Labs are similar to problem sets, except they use Jupyter notebooks, which are a web-based tool for interactively running python code. Labs are an opportunity to see real-world applications of EE 120 material.
+
+**Release**: Labs will be released on **Fridays via Ed**. They will be released on **Datahub**, an online platform for running Jupyter notebooks; we will provide a Datahub link for each lab.
+
+We will also provide .zip files of lab materials via bCourses if you want to work locally. Please note that we will have limited support for technical issues that arise while running labs locally.
+
+**Submission**:
+
+
+
+1. Run all cells before the grader.export() cell
+2. Save the notebook (ctrl-s or cmd-s should work)
+3. Run the grader.export() cell
+4. Download the zip file produced by grader.export()
+5. Upload the zip file to the Gradescope.
+
+As we cannot avoid releasing problem sets and labs in concurrent weeks, labs will be due **two weeks after they are released, on Friday at 11:59pm**.
+
+**Notes on Autograding**:
+
+
+
+* You will be able to see whether you passed the public tests, but not your full score, directly after the autograder finishes running.
+* **If tests pass locally but not on Gradescope:**
+    * _Double-check that you saved the notebook._
+    * _Make sure you did not add any print statements that we did not ask you to add. This interferes with the autograder._
+    * Due to a bug, you might see "Failed Tests: Public Tests" in red on the right-hand side of the screen. **Disregard this; you're fine as long as you see "All test cases passed!" for each public test** on the autograder output.
+* There may be private tests. You will not see your grade for the private tests until after scores are released. _We will, however, do our best to make public tests comprehensive._
+* We'll release full autograder scores during the week after the lab is due.
+
+
+### Grace Period
+
+Although problem sets and labs are due on Fridays, **you can submit, with no penalty, the assignments until the immediately subsequent Sunday at 11:59pm**; in other words, you have a weekend’s worth of grace period for each assignment. This comes with two important caveats:
+
+
+
+1. Staff support will be limited during the grace period.
+2. Barring exceptional circumstances and DSP accommodations, we will not be accepting any late assignments (_i.e._, they will automatically earn a 0).
+
+
+### Collaboration
+
+You may collaborate with up to 5 other students on homework, but each person must submit their own work. For problem sets, please write down the names of your collaborators on the appropriate location on the first page of the assignment. You need not indicate your collaborators for labs.
+
+
+## Self Grades
+
+Problem sets will be self-graded, and labs will have both autograded and self-graded components. **_Warning: not submitting a self-grade will result in a 0 on the corresponding assignment._**
+
+The purpose of the self-grade assignments strategy is to encourage you to look over the solutions and use it to check your answers.  We hope it offers a chance to self-assess your understanding of the class content to better prepare for exams. We warn students against inflating your self-grade scores, as we will be doing random checks every week to verify.
+
+
+### Timeline
+
+Self grades will be released, along with assignment solutions, when the grace period for the assignment ends. **Self grades will be due exactly a week after the corresponding assignment: Friday at 11:59pm, with a grace period until Sunday at 11:59pm**.
+
+
+### Instructions
+
+
+
+1. When we release solutions for each assignment, we will post a link to a form in which you can input your self grades. You can find this link on the “Solutions Released” Ed post.
+    1. This form produces a JSON file, which you will then upload to gradescope.
+    2. For transparency, we will release the number of points associated with each problem. This should not influence your self grades.
+2. Using the rubric below, give each problem a score from 0 to 5 and input your scores into the form.
+3. Download the file generated by pressing the button at the bottom of the form, and upload that file to the self-grade assignment on Gradescope.
+    3. Ensure that the autograder runs properly. Contact course staff through a private post on Ed if you are having issues.
+4. In the week after self grades are due, we will checka random sample of self grades.
+    4. We’ll check every student’s self grades at least once this semester.
+    5. If there is a **large discrepancy** found between your self grade and the course staff-determined score, you run the risk of having that homework scored as a 0, and having your other self grades reviewed as well.
+
+
+### Rubric
+
+* 5: At least 80% of the problem is correct, with full effort and work shown. Complete work must be shown for full credit!
+    * For example:
+        * You completed 80+% of the sub-parts (if applicable), and each was fully correct, or had minor arithmetic errors that did not impact the form of the final solution.
+        * You attempted all of the sub-parts, and your work was almost fully correct with minor errors.
+
+* 4: At least 60% … 
+    * Your work was in the right direction, but missing one or a few critical steps.
+
+* 3: At least 40% … 
+    * You made about half (or a little less) of the progress required for a correct solution.
+
+* 2: At least 20% … 
+    * You made initial progress but proceeded in the wrong direction.
+
+* 1: At least 5% …
+    * Minimal progress; almost fully incorrect.
+
+* 0: Blank or did not attempt.
+
+
+## Exam
+
+We will have 2 quizzes and 2 midterms this semester. **There is no final exam**. 
+
+**Each exam will be online and take place during lecture time.** For midterms, the question document will be released at **3:10pm** **on bCourses**, and the exam will be due **5:00pm on Gradescope**. For quizzes, the exam will take place during the last half of lecture: the question document will be released at **4:10pm on bCourses**, and the exam will be due **5:00pm on Gradescope**.
+
+Exams are open-book, and we allow collaboration, l**imited to designated threads on Ed**. All external collaboration, including being in the same room as other EE 120 students while taking the exam, is prohibited.
+
+Because all quizzes and exams take place during class, **we will not be accommodating exam time conflicts**. Email [ee120-sp23-admin@lists.berkeley.edu](mailto:ee120-sp23-admin@lists.berkeley.edu) if you have any concerns.
+
+**Quiz Dates:** Monday, February 6th and Wednesday, March 22nd
+
+**Midterm Dates:** Wednesday, March 1st and Wednesday, April 26th
+
+We will release more exam logistics in Ed posts before each exam.
+
+
+### Clobber
+
+Your Quiz 2 z-score will automatically clobber your Quiz 1 z-score if it improves your overall grade. Your Midterm 2 z-score will also automatically clobber your Midterm 1 z-score if it improves your overall grade.
+
 
 ## Grading
 
-Overall grades will be determined from:
 
-- Labs (______%)
-- Homeworks (__%)
-- Quiz (__%)
-- Midterm 1 (__%)
-- Midterm 2 (__%)
 
-If you are taking the class P/NP, you will need to attain a letter grade of C- or higher to pass. If you are a graduate student taking the class SUS, you will need to attain a letter grade of B- or higher AND take the final to pass.
+* **Quizzes**: 15% each (30% total)
+* **Midterms**: 25% each (50% total)
+* **Labs**: 10% (We drop the lowest lab score)
+* **Problem Sets**: 10% (We drop the lowest 2 scores)
 
---- 
 
-<!-- ## Collaboration and Ethics
+## Optional Course Materials
 
-Please note that obtaining, sharing, and posting solutions to homework or projects is a violation of academic integrity. This includes uploading project code, official solutions, your own solutions, etc. to any site that is accessible by other people, such as a public GitHub repository.
+There is no official textbook or set of course notes for EE120. However, if you would like additional information beyond what is covered in lectures, homeworks, and labs, you can look at these two textbooks:
 
-Homework/Project submissions should acknowledge all collaborators and sources consulted. All code and written responses should be original. We trust you all to submit your own work, but to protect the integrity of the course from anyone who doesn't want to play by the rules, we will actively be checking for code plagiarism (both from current classmates and previous semesters), as well as written homework submissions that look eerily similar.
 
-If you use a code snippet from a website like StackOverflow for a small task (for example, capitalizing a string), this is fine, but please cite your sources in your code with a comment.
 
-Exams are expected to demonstrate your work, and your work alone. We have a zero-tolerance policy for any form of collaboration on exams. We are not lenient about cheating; in past semesters, CS 188 has caught upwards of 50 students for academic dishonesty and directly reported them to the Center for Student Conduct. An overwhelming majority (>90%) of the students were found guilty, and thus earned an "F" in the class and a mark on their transcript. Please, just don't cheat. It's not cool.
+* [Signals and Systems by Hwei P Hsu](https://electronicsbookcafe.files.wordpress.com/2015/08/signals-and-systems-2nd-edition-schaums-outline-series-hwei-hsu.pdf)
+* [Signals and Systems by Oppenheim and Willsky](https://eee.guc.edu.eg/Courses/Communications/COMM401%20Signal%20&%20System%20Theory/Alan%20V.%20Oppenheim,%20Alan%20S.%20Willsky,%20with%20S.%20Hamid-Signals%20and%20Systems-Prentice%20Hall%20(1996).pdf)
 
-We sympathize with [Kris Pister's policy](http://www-bsac.eecs.berkeley.edu/~pister/etc/Cheating.htm).
-
----
-
-## Inclusion
-
-We believe in the crucial importance of creating a learning environment that is welcoming and respectful to students of all backgrounds. The following are specific steps that will help us in achieving this goal:
-
-- If you feel your academic performance has been impacted negatively due to a lack of inclusion, or due to experiences outside of class such as current events or family matters, please reach out to the instructors and staff. Our job is not only to teach but to support you in every way we can.
-- If something happens in the course that runs counter to the goal of making every student feel safe, respected, and welcome, please contact the head TA or the instructors; if you don't feel comfortable contacting course staff, you can fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSc4NYHdUJ8IzYA1SoiTinWBybGWkj0mfmdnHAeygAxkZajelQ/viewform) to anonymously let the department know.
-- You may also consult a departmental [Faculty Equity Advisor](https://diversity.berkeley.edu/faculty-equity-advisors), or fill out the [anonymous feedback form](https://engineering.berkeley.edu/about/equity-and-inclusion/feedback/) for the College of Engineering for equity and inclusion related feedback.
-- If you have a preferred name or set of pronouns that differ from your legal name, you may designate a preferred name for the classroom by following these [steps](https://registrar.berkeley.edu/academic-records/your-name-records-rosters).
-- As a member of the CS 188 community, realize that you have an important duty to help other students feel respected in helping create an inclusive learning environment.
-
----
-
-## Support During Remote Learning
-
-From the College of Engineering:
-
-> We understand that your specific situation may present challenges to class participation. Please contact the instructors if you would like to discuss these and co-develop strategies for engaging with the course.
-> 
-> The Student Technology Equity Program ([STEP](https://technology.berkeley.edu/STEP)) is available to help you access a laptop, Wi-Fi hotspot, and other peripherals.
-> 
-> You will be alerted as to when synchronous sessions are about to be recorded. If you prefer not to be recorded, you may turn your video and microphone off. Please set your Zoom name to be the name you would like instructors to call you. You may optionally include your personal pronouns. Please set your Zoom picture to an appropriate profile picture of you to foster a sense of community and enhance interactions. If you are not comfortable using an image of yourself, you may use an appropriate picture of an avatar. We encourage participating with your video on to foster a sense of commnuity and enhance interactions. However, we understand that some students are not comfortable with video or may not be able to participate by video. -->
+As a disclaimer, EE 120 does not directly follow these textbooks, so they will differ from the course material in terms of content emphasis and scope.
