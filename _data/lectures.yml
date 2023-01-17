@@ -52,7 +52,8 @@ lectures:
     nonumber: True
     edThread: 
     recording: 
-  - title: "Lecture 12"
+  - title: "Lecture 12 (MIDTERM 1)"
+    isExam: True
     nonumber: True
     edThread: 
     recording: 
@@ -72,13 +73,13 @@ lectures:
     nonumber: True
     edThread:
     recording: 
-  - title: "Lecture 17 (MIDTERM 1)"
+  - title: "Lecture 17"
     nonumber: True
-    isExam: True
     edThread: 
     recording: 
-  - title: "Lecture 18"
+  - title: "Lecture 18 (QUIZ 2)"
     nonumber: True
+    isExam: True
     edThread: 
     recording: 
   - title: "No lecture (Spring Break)"
