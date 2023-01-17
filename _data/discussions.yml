@@ -12,11 +12,11 @@ discussions:
   #   solutions: link to the discussion solutions link
   #   walkthrough: link to the walkthrough video
   #   nonumber: True # always add this line
-  - title: "Discussion #1"
-    worksheet: https://www.google.com/
-    solutions: https://www.google.com/
-    walkthrough: https://www.fotmob.com/
-    nonumber: True
-    rowspan: 1
+  # - title: "Discussion #1"
+  #   worksheet: https://www.google.com/
+  #   solutions: https://www.google.com/
+  #   walkthrough: https://www.fotmob.com/
+  #   nonumber: True
+  #   rowspan: 1
 
 

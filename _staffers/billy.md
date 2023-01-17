@@ -1,5 +1,5 @@
 ---
-role: TA
+role: TA with role
 name: Billy Pierce
 photo: billy.jpeg
 email: billpierce@berkeley.edu

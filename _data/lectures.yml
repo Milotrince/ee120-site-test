@@ -5,8 +5,8 @@ lectures:
   #   recording: link to the recording link
   - title: "Lecture 1"
     nonumber: True
-    edThread: https://www.google.com/
-    recording: https://www.google.com/
+    # edThread: https://www.google.com/
+    # recording: https://www.google.com/
   - title: "Lecture 2"
     nonumber: True
     edThread: 

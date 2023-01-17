@@ -12,8 +12,8 @@ homeworks:
   #   selfGrade: link to self grade form
   #   homework: link to the homework pdf
   #   solutions: link to the solutions pdf
-  - due: "Fri, Jan 20"
-    selfGrade: https://www.fotmob.com/
-    homework: https://www.google.com/
-    solutions: https://www.google.com/
-    rowspan: 1
+  # - due: "Fri, Jan 20"
+  #   selfGrade: https://www.fotmob.com/
+  #   homework: https://www.google.com/
+  #   solutions: https://www.google.com/
+  #   rowspan: 1
