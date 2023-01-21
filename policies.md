@@ -70,7 +70,7 @@ All assignments will be submitted through Gradescope. The code to join can be fo
 
 ## Discussion
 
-There are 4 discussion sections, all on Friday. **You can attend any discussion time you would like as long as there's enough room for everyone to sit comfortably..**.
+There are 4 discussion sections, all on Friday. **You can attend any discussion time you would like as long as there's enough room for everyone to sit comfortably.**.
 
 Discussions will be in-person, but we will post worksheet walkthrough videos after discussion. Walkthrough videos will be available in the Media Gallery on bCourses. The videos are not a substitute for the active learning that takes place in class. 
 
@@ -185,7 +185,7 @@ The purpose of the self-grade assignments strategy is to encourage you to look o
 
 ### Timeline
 
-Self grades will be released, along with assignment solutions, when the grace period for the assignment ends. **Self grades will be due typically on the immediately subsequent**.
+Self grades will be released, along with assignment solutions, when the grace period for the assignment ends. **Self grades will be due typically on the immediately subsequent Friday at 11:59pm, with a grace period until Sunday at 11:59pm**.
 
 
 ### Instructions
