@@ -13,6 +13,8 @@ homeworks:
   #   homework: link to the homework pdf
   #   solutions: link to the solutions pdf
   - rowspan: 1
+    due: "Fri, Jan 27"
+    homework: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-HW/EE120-S23-HW01?preview=85166585
     # due: "Fri, Jan 20"
     # selfGrade: https://www.fotmob.com/
     # homework: https://www.google.com/
