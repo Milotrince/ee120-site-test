@@ -13,8 +13,8 @@ discussions:
   #   walkthrough: link to the walkthrough video
   #   nonumber: True # always add this line
   - title: "Discussion #1"
-    # worksheet: https://www.google.com/
-    # solutions: https://www.google.com/
+    worksheet: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-Discussion/disc01?preview=85160085
+    solutions: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-Discussion/disc01?preview=85164585
     # walkthrough: https://www.fotmob.com/
     nonumber: True
     rowspan: 1
