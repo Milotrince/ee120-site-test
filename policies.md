@@ -63,7 +63,7 @@ All assignments will be submitted through Gradescope. The code to join can be fo
 
 **Location**: Physics Building 4 (directly east of the Campanile; the room should be near the entrance to the building)
 
-**Recordings**: Will be posted to the course website and “Lecture Index” Ed thread.
+**Recordings**: Will be posted to the course website and the individual lecture threads on Ed.
 
 **Lecture Threads**: There will be an Ed thread for each lecture where you can ask questions about lecture topics.
 
@@ -223,6 +223,12 @@ Self grades will be released, along with assignment solutions, when the grace pe
     * Minimal progress; almost fully incorrect.
 
 * 0: Blank or did not attempt.
+
+## Office Hours
+Office hour times and locations are available on the Calendar page of the course website. We have a combination of in-person and remote options: each office hour will have a room number, Zoom link, or both listed.
+
+## Homework Party
+We offer a two-hour homework party on Fridays from 6-8pm where you can ask questions about the problem sets and labs. The location and Zoom information is listed on the Calendar page of the website. Typically, two TAs will staff homework party each week.
 
 
 ## Exams
