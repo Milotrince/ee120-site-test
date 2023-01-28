@@ -15,7 +15,9 @@ homeworks:
   - rowspan: 3
     due: "Fri, Jan 27"
     homework: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-HW/EE120-S23-HW01?preview=85166585
-    # due: "Fri, Jan 20"
     # selfGrade: https://www.fotmob.com/
     # homework: https://www.google.com/
     # solutions: https://www.google.com/
+  - rowspan: 2
+    due: "Fri, Feb 03"
+    homework: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-HW/EE120-S23-HW02?preview=85221122
