@@ -23,13 +23,13 @@ lectures:
     nonumber: True
     edThread:
     recording: 
-  - title: "Lecture 6 (QUIZ 1)"
+  - title: "Lecture 6"
     nonumber: True
-    isExam: True
     edThread: 
     recording: 
-  - title: "Lecture 7"
+  - title: "Lecture 7 (QUIZ 1)"
     nonumber: True
+    isExam: True
     edThread: 
     recording: 
   - title: "Lecture 8"
