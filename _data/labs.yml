@@ -5,6 +5,15 @@
 #   a. Follow the format provided by previous examples
 
 labs:
+  - due: "never"
+    title: "(optional)"
+    lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-0-introduction&urlpath=tree%2Flab-0-introduction%2Flab0.ipynb&branch=main
+    solutions: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-Labs/lab0/solution
+    rowspan: 5
+  - due: "Fri, Feb 17"
+    lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-tones-convolution&urlpath=tree%2Flab-tones-convolution%2Flab1.ipynb&branch=main
+    rowspan: 4
+
   # - due: "due date"
   #   title: "title of the lab"
   #   lab: link to the lab notebook
