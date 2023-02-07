@@ -25,8 +25,8 @@ lectures:
     recording: https://youtu.be/hI3N5dAqZ3I 
   - title: "Lecture 6"
     nonumber: True
-    edThread: 
-    recording: 
+    edThread: https://edstem.org/us/courses/34986/discussion/2531514
+    recording: https://youtu.be/CQ1_qeGjk1U 
   - title: "Lecture 7 (QUIZ 1)"
     nonumber: True
     isExam: True
