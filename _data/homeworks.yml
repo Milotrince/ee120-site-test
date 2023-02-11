@@ -2,7 +2,7 @@
 # Instructions for updating website #
 #####################################
 ### HW numbers are done automatically, using the order of homeworks in this file
-# 1. Add another selection to this data file, with the necassary information
+# 1. Add another selection to this data file, with the necessary information
 #   a. Follow the format provided by previous examples
 
 homeworks:
@@ -22,3 +22,8 @@ homeworks:
     homework: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-HW/EE120-S23-HW02?preview=85221122
     selfGrade: https://ee120-course-staff.github.io/selfgrade-form/homework-2
     solutions: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-HW/EE120-S23-HW02?preview=85303960
+  - rowspan: 2
+    nonumber: True
+  - rowspan: 2
+    due: "Fri, Feb 17"
+    homework: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-HW/EE120-S23-HW03?preview=85359993
