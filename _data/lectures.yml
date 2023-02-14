@@ -27,15 +27,15 @@ lectures:
     nonumber: True
     edThread: https://edstem.org/us/courses/34986/discussion/2531514
     recording: https://youtu.be/2cbpIcHILNo
-  - title: "Lecture 7 (QUIZ 1)"
+  - title: "Lecture 7 (No lecture, QUIZ 1)"
     nonumber: True
     isExam: True
     edThread: 
     recording: 
   - title: "Lecture 8"
     nonumber: True
-    edThread: 
-    recording: 
+    edThread: https://edstem.org/us/courses/34986/discussion/2584800
+    recording: https://youtu.be/qLMk6NG23sY 
   - title: "Lecture 9"
     nonumber: True
     edThread: 
