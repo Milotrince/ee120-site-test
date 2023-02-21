@@ -27,6 +27,8 @@ homeworks:
   - rowspan: 2
     due: "Fri, Feb 17"
     homework: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-HW/EE120-S23-HW03?preview=85359993
+    selfGrade: https://ee120-course-staff.github.io/selfgrade-form/homework-3
+    solutions: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-HW/EE120-S23-HW03?preview=85437475
   - rowspan: 2
     due: "Fri, Feb 24"
     homework: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-HW/EE120-S23-HW04?preview=85424203
