@@ -12,6 +12,10 @@ labs:
     rowspan: 5
   - due: "Fri, Feb 17"
     lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-tones-convolution&urlpath=tree%2Flab-tones-convolution%2Flab1.ipynb&branch=main
+    solutions: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-Labs/lab1/solution
+    rowspan: 4
+  - due: "Fri, Mar 3"
+    lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-filters-for-stocks&urlpath=tree%2Flab-filters-for-stocks%2Flab2.ipynb&branch=main
     rowspan: 4
 
   # - due: "due date"
