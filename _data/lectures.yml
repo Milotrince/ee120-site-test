@@ -50,8 +50,8 @@ lectures:
     recording: https://youtu.be/iU_t0G0-QtE
   - title: "Lecture 11"
     nonumber: True
-    edThread: 
-    recording: 
+    edThread: https://edstem.org/us/courses/34986/discussion/2683537
+    recording: https://youtu.be/SpEjLhg6Wrc 
   - title: "Lecture 12 (MIDTERM 1)"
     isExam: True
     nonumber: True
