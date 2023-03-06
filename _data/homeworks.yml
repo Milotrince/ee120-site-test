@@ -35,6 +35,8 @@ homeworks:
     selfGrade: https://ee120-course-staff.github.io/selfgrade-form/homework-4
     solutions: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-HW/EE120-S23-HW04?preview=85509666
   - rowspan: 2
+    nonumber: True
+  - rowspan: 2
     due: "Fri, Mar 10"
     homework:  https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-HW/EE120-S23-HW05?preview=85560199
     
