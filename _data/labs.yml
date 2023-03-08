@@ -17,6 +17,8 @@ labs:
     rowspan: 4
   - due: "Fri, Mar 3"
     lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-filters-for-stocks&urlpath=tree%2Flab-filters-for-stocks%2Flab2.ipynb&branch=main
+    solutions: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-Labs/lab2/solution
+    selfGrade: https://ee120-course-staff.github.io/selfgrade-form/lab-2
     rowspan: 4
 
   # - due: "due date"
