@@ -235,7 +235,7 @@ We offer a two-hour homework party on Fridays from 6-8pm where you can ask quest
 
 We will have 2 quizzes and 2 midterms this semester. **There is no final exam**. 
 
-**Each exam will be online and take place during lecture time.** For midterms, the question document will be released at **3:10pm** **on bCourses**, and the exam will be due **5:00pm on Gradescope**. For quizzes, the exam will take place during the last half of lecture: the question document will be released at **4:10pm on bCourses**, and the exam will be due **5:00pm on Gradescope**.
+**Each exam will be online and take place during lecture time.** For midterms, the question document will be released at **3:10pm** **on bCourses**, and the exam will be due **5:00pm on Gradescope**. For quizzes, the exam will take place during the last half of lecture: the question document will be released at **4:00pm on bCourses**, and the exam will be due **5:00pm on Gradescope**.
 
 Exams are open-book. We allow reasonable collaboration (to get each other unstuck, but not to give away solutions), but the collaboration is **limited to designated threads on Ed**. All external collaboration, including being in the same room as other EE 120 students while taking the exam, outside the purview of the staff, is strictly prohibited.
 
