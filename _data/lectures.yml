@@ -71,8 +71,8 @@ lectures:
     recording: https://youtu.be/ctNi9BNVBJs 
   - title: "Lecture 16"
     nonumber: True
-    edThread:
-    recording: 
+    edThread: https://edstem.org/us/courses/34986/discussion/2788712
+    recording: https://youtu.be/7SFWcq9Xzd4 
   - title: "Lecture 17"
     nonumber: True
     edThread: 
