@@ -44,4 +44,6 @@ homeworks:
   - rowspan: 2
     due: "Fri, Mar 17"
     homework:  https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-HW/EE120-S23-HW06?preview=85625502
+    selfGrade: https://ee120-course-staff.github.io/selfgrade-form/homework-6
+    solutions: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-HW/EE120-S23-HW06?preview=85701113
     
