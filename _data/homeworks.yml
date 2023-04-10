@@ -51,8 +51,8 @@ homeworks:
   - rowspan: 2
     due: "Fri, Apr 07"
     homework: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-HW/EE120-S23-HW07?preview=85758501
+    selfGrade: https://ee120-course-staff.github.io/selfgrade-form/homework-7
+    solutions: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-HW/EE120-S23-HW07?preview=85841768
   - rowspan: 2
     due: "Fri, Apr 14"
     homework: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-HW/EE120-S23-HW08?preview=85822931
-    selfGrade: https://ee120-course-staff.github.io/selfgrade-form/homework-7
-    solutions: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-HW/EE120-S23-HW07?preview=85841768
