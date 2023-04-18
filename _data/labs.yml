@@ -29,8 +29,12 @@ labs:
     rowspan: 4
   - rowspan: 2
     nonumber: true
-  - due: "Fri, April 14"
+  - due: "Fri, Apr 14"
     lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-fft-heart-rate-analysis&urlpath=tree%2Flab-fft-heart-rate-analysis%2Flab4.ipynb&branch=main
+    rowspan: 4
+  - due: "Fri, Apr 28"
+    lab: https://edstem.org/us/courses/34986/discussion/2971309
+    rowspan: 4
   # - due: "due date"
   #   title: "title of the lab"
   #   lab: link to the lab notebook
