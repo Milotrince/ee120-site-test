@@ -31,6 +31,8 @@ labs:
     nonumber: true
   - due: "Fri, Apr 14"
     lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-fft-heart-rate-analysis&urlpath=tree%2Flab-fft-heart-rate-analysis%2Flab4.ipynb&branch=main
+    solutions: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-Labs/lab4/solution
+    selfGrade: https://ee120-course-staff.github.io/selfgrade-form/lab-4
     rowspan: 4
   - due: "Fri, Apr 28"
     lab: https://edstem.org/us/courses/34986/discussion/2971309
