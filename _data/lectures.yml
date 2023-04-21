@@ -108,8 +108,8 @@ lectures:
     recording: https://youtu.be/nl71ocsss4M 
   - title: "Lecture 24"
     nonumber: True
-    edThread:
-    recording: 
+    edThread: https://edstem.org/us/courses/34986/discussion/2982385
+    recording: https://youtu.be/Hxefqci_HSA
   - title: "Lecture 25"
     nonumber: True
     edThread: 
