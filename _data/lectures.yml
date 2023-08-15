@@ -5,117 +5,121 @@ lectures:
   #   recording: link to the recording link
   - title: "Lecture 1"
     nonumber: True
-    edThread: https://edstem.org/us/courses/34986/discussion/2407092
-    recording: https://youtu.be/ugeIeLwZTFw
+    edThread: 
+    recording: 
   - title: "Lecture 2"
     nonumber: True
-    edThread: https://edstem.org/us/courses/34986/discussion/2433834 
-    recording: https://youtu.be/uo7Y94pvdVo 
+    edThread: 
+    recording: 
   - title: "Lecture 3"
     nonumber: True
-    edThread: https://edstem.org/us/courses/34986/discussion/2447941 
-    recording: https://youtu.be/nwiiumL21yg 
+    edThread: 
+    recording: 
+  - title: "No Lecture (Academic Holiday)"
+    nonumber: True
   - title: "Lecture 4"
     nonumber: True
-    edThread: https://edstem.org/us/courses/34986/discussion/2479920 
-    recording: https://youtu.be/VAYFHDSGChs 
+    edThread: 
+    recording: 
   - title: "Lecture 5"
     nonumber: True
-    edThread: https://edstem.org/us/courses/34986/discussion/2495856
-    recording: https://youtu.be/hI3N5dAqZ3I 
+    edThread: 
+    recording: 
   - title: "Lecture 6"
     nonumber: True
-    edThread: https://edstem.org/us/courses/34986/discussion/2531514
-    recording: https://youtu.be/2cbpIcHILNo
-  - title: "Lecture 7 (No lecture, QUIZ 1)"
+    edThread: 
+    recording: 
+  - title: "Lecture 7"
     nonumber: True
-    isExam: True
     edThread: 
     recording: 
   - title: "Lecture 8"
     nonumber: True
-    edThread: https://edstem.org/us/courses/34986/discussion/2584800
-    recording: https://youtu.be/qLMk6NG23sY 
-  - title: "Lecture 9"
-    nonumber: True
-    edThread: https://edstem.org/us/courses/34986/discussion/2600131 
-    recording: https://youtu.be/t3rbMTiQl68 
-  - title: "No Lecture (Academic Holiday)"
     edThread: 
     recording: 
+  - title: "Lecture 9"
     nonumber: True
+    edThread: 
+    recording: 
+  - title: "No Lecture (Exam)"
+    nonumber: True
+  - title: "Midterm 1"
+    nonumber: True
+    edThread: 
+    isExam: True
   - title: "Lecture 10"
     nonumber: True
-    edThread: https://edstem.org/us/courses/34986/discussion/2649335
-    recording: https://youtu.be/iU_t0G0-QtE
+    edThread: 
+    recording: 
   - title: "Lecture 11"
     nonumber: True
-    edThread: https://edstem.org/us/courses/34986/discussion/2683537
-    recording: https://youtu.be/SpEjLhg6Wrc 
-  - title: "Lecture 12 (MIDTERM 1)"
-    isExam: True
+    edThread: 
+    recording: 
+  - title: 'Lecture 12'
     nonumber: True
     edThread: 
     recording: 
   - title: "Lecture 13"
     nonumber: True
-    edThread: https://edstem.org/us/courses/34986/discussion/2732351 
-    recording: https://youtu.be/TxioIgKrYmk 
-  - title: 'Lecture 14'
-    nonumber: True
-    edThread: https://edstem.org/us/courses/34986/discussion/2746836 
-    recording: https://youtu.be/xWS7WD5hc20 
-  - title: "Lecture 15"
-    nonumber: True
-    edThread: https://edstem.org/us/courses/34986/discussion/2775969
-    recording: https://youtu.be/ctNi9BNVBJs 
-  - title: "Lecture 16"
-    nonumber: True
-    edThread: https://edstem.org/us/courses/34986/discussion/2788712
-    recording: https://youtu.be/7SFWcq9Xzd4 
-  - title: "Lecture 17"
-    nonumber: True
-    edThread: https://edstem.org/us/courses/34986/discussion/2814316 
-    recording: https://youtu.be/-g6D8DA7hIQ 
-  - title: "Lecture 18 (QUIZ 2)"
-    nonumber: True
-    isExam: True
     edThread: 
     recording: 
-  - title: "No lecture (Spring Break)"
+  - title: "Lecture 14"
     nonumber: True
-  - title: "No lecture (Spring Break)"
+    edThread: 
+    recording: 
+  - title: "Lecture 15"
     nonumber: True
+    edThread: 
+    recording: 
+  - title: "Lecture 16"
+    nonumber: True
+    edThread: 
+    recording: 
+  - title: "Lecture 17"
+    nonumber: True
+    edThread: 
+    recording: 
+  - title: "Lecture 18"
+    nonumber: True
+    edThread: 
+    recording: 
+  - title: "No Lecture (Exam)"
+    nonumber: True
+  - title: "Midterm 2"
+    nonumber: True
+    edThread: 
+    isExam: True
   - title: "Lecture 19"
     nonumber: True
-    edThread: https://edstem.org/us/courses/34986/discussion/2882484 
-    recording: https://youtu.be/lcog0vEWXB8 
+    edThread: 
+    recording: 
   - title: "Lecture 20"
     nonumber: True
-    edThread: https://edstem.org/us/courses/34986/discussion/2895185 
-    recording: https://youtu.be/00gBt6jdhGo 
+    edThread: 
+    recording: 
   - title: "Lecture 21"
     nonumber: True
-    edThread: https://edstem.org/us/courses/34986/discussion/2923580 
-    recording: https://youtu.be/pbxJMgQxFdM 
+    edThread: 
+    recording: 
   - title: "Lecture 22"
     nonumber: True
-    edThread: https://edstem.org/us/courses/34986/discussion/2937607
-    recording: https://youtu.be/aJEKwW9Yp10 
+    edThread: 
+    recording: 
   - title: "Lecture 23"
     nonumber: True
-    edThread: https://edstem.org/us/courses/34986/discussion/2967994
-    recording: https://youtu.be/nl71ocsss4M 
+    edThread: 
+    recording: 
+  - title: "No Lecture (Academic Holiday)"
+    nonumber: True
   - title: "Lecture 24"
     nonumber: True
-    edThread: https://edstem.org/us/courses/34986/discussion/2982385
-    recording: https://youtu.be/Hxefqci_HSA
+    edThread: 
+    recording: 
   - title: "Lecture 25"
     nonumber: True
     edThread: 
     recording: 
-  - title: "Lecture 26 (MIDTERM 2)"
-    edThread: 
+  - title: "Final Exam"
     nonumber: True
+    edThread: 
     isExam: True
-    recording: 

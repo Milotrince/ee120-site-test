@@ -5,38 +5,6 @@
 #   a. Follow the format provided by previous examples
 
 labs:
-  - due: "never"
-    title: "(optional)"
-    lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-0-introduction&urlpath=tree%2Flab-0-introduction%2Flab0.ipynb&branch=main
-    solutions: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-Labs/lab0/solution
-    rowspan: 5
-  - due: "Fri, Feb 17"
-    lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-tones-convolution&urlpath=tree%2Flab-tones-convolution%2Flab1.ipynb&branch=main
-    solutions: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-Labs/lab1/solution
-    selfGrade: https://ee120-course-staff.github.io/selfgrade-form/lab-1
-    rowspan: 4
-  - due: "Fri, Mar 3"
-    lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-filters-for-stocks&urlpath=tree%2Flab-filters-for-stocks%2Flab2.ipynb&branch=main
-    solutions: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-Labs/lab2/solution
-    selfGrade: https://ee120-course-staff.github.io/selfgrade-form/lab-2
-    rowspan: 4
-  - rowspan: 2
-    nonumber: true
-  - due: "Fri, Mar 24"
-    lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-dft-fft&urlpath=tree%2Flab-dft-fft%2Flab3.ipynb&branch=main
-    solutions: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-Labs/lab3/lab3-sol
-    selfGrade: https://ee120-course-staff.github.io/selfgrade-form/lab-3
-    rowspan: 4
-  - rowspan: 2
-    nonumber: true
-  - due: "Fri, Apr 14"
-    lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-fft-heart-rate-analysis&urlpath=tree%2Flab-fft-heart-rate-analysis%2Flab4.ipynb&branch=main
-    solutions: https://bcourses.berkeley.edu/courses/1522650/files/folder/EE120-S23-Labs/lab4/solution
-    selfGrade: https://ee120-course-staff.github.io/selfgrade-form/lab-4
-    rowspan: 4
-  - due: "Fri, Apr 28"
-    lab: https://edstem.org/us/courses/34986/discussion/2971309
-    rowspan: 4
   # - due: "due date"
   #   title: "title of the lab"
   #   lab: link to the lab notebook

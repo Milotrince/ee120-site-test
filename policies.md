@@ -50,7 +50,7 @@ Conversion notes:
 
 All official course communication will be through Ed and bCourses. We will also maintain the course website for your convenience.
 
-You may contact the staff at **[ee120-sp23@lists.berkeley.edu](mailto:ee120-sp23@lists.berkeley.edu)**. This reaches all staff, including Babak.
+You may contact the staff at *_*. This reaches all TAs, including Kannan.
 
 ## Gradescope
 
@@ -61,7 +61,7 @@ All assignments will be submitted through Gradescope. The code to join can be fo
 
 **Time**: Mon/Wed 3-5pm
 
-**Location**: Physics Building 4 (directly east of the Campanile; the room should be near the entrance to the building)
+**Location**: Anthropology and Art Practice Building
 
 **Recordings**: Will be posted to the course website and the individual lecture threads on Ed.
 
@@ -70,7 +70,7 @@ All assignments will be submitted through Gradescope. The code to join can be fo
 
 ## Discussion
 
-There are 4 discussion sections, all on Friday. **You can attend any discussion time you would like as long as there's enough room for everyone to sit comfortably.**.
+There are 3 discussion sections, all on Friday. **You can attend any discussion time you would like as long as there's enough room for everyone to sit comfortably.**.
 
 Discussions will be in-person, but we will post worksheet walkthrough videos after discussion. Walkthrough videos will be available in the Media Gallery on bCourses. The videos are not a substitute for the active learning that takes place in class. 
 
@@ -78,19 +78,14 @@ We will post the worksheet to bCourses and Ed on Friday mornings, along with the
 
 **Times and Locations:**
 
-
-
-* Fri 11am-12pm in Cory 540AB
-* Fri 12-1pm in Wheeler 30
-* Fri 1-2pm in Wheeler 30
-* Fri 2-3pm in Wheeler 130
-
-**Note: we will not be offering the Fri 8-9am option**.
+* Fri 10-11am in Cory 540AB
+* Fri 1-2pm in Wheeler 130
+* Fri 2-3pm in Evans 3
 
 **Attendance**: We do _not_ take attendance for lecture or discussion. Nevertheless, we highly recommend that you attend both as frequently as possible to stay caught up with the material, and also for the staff to get to know you. At the end of the semester, when we decide on final grades, intense discussions take place about students who fall near grade boundaries. If you're in that situation, it's of potential benefit to you if at least one member of the staff knows you enough to advocate for you and comment on your classroom performance. 
 
 
-**The first discussion is Friday, January 20th**.
+**The first discussion is Friday, September 1st**.
 
 
 ### COVID Reminder
@@ -105,7 +100,7 @@ To enhance and gauge your fluency with the course content, we will have two type
 
 ### Drops
 
-**We will automatically drop the two lowest problem set scores and one lowest lab score from your final grade**.
+**We will automatically drop the *_* lowest problem set scores and *_* lowest lab score from your final grade**.
 
 
 ### Timeline
@@ -228,39 +223,31 @@ Self grades will be released, along with assignment solutions, when the grace pe
 Office hour times and locations are available on the Calendar page of the course website. We have a combination of in-person and remote options: each office hour will have a room number, Zoom link, or both listed.
 
 ## Homework Party
-We offer a two-hour homework party on Fridays from 6-8pm where you can ask questions about the problem sets and labs. The location and Zoom information is listed on the Calendar page of the website. Typically, two TAs will staff homework party each week.
+We offer a two-hour homework party on _ from _ where you can ask questions about the problem sets and labs. The location and Zoom information is listed on the Calendar page of the website. Typically, two TAs will staff homework party each week.
 
 
 ## Exams
 
-We will have 2 quizzes and 2 midterms this semester. **There is no final exam**. 
+We will have 2 midterms and 1 final this semester.
 
-**Each exam will be online and take place during lecture time.** For midterms, the question document will be released at **3:10pm** **on bCourses**, and the exam will be due **5:00pm on Gradescope**. For quizzes, the exam will take place during the last half of lecture: the question document will be released at **4:00pm on bCourses**, and the exam will be due **5:00pm on Gradescope**.
+**Midterm Exam Dates:** Thursday September 28th @ 7-9pm and Thursday November 2nd @ 7-9pm
 
-Exams are open-book. We allow reasonable collaboration (to get each other unstuck, but not to give away solutions), but the collaboration is **limited to designated threads on Ed**. All external collaboration, including being in the same room as other EE 120 students while taking the exam, outside the purview of the staff, is strictly prohibited.
-
-Because all quizzes and exams take place during class, **we will not be accommodating exam time conflicts with other courses**. Email [ee120-sp23@lists.berkeley.edu](mailto:ee120-sp23@lists.berkeley.edu) if you have any concerns.
-
-**Quiz Dates:** Monday, February 6th and Wednesday, March 22nd
-
-**Midterm Dates:** Wednesday, March 1st and Wednesday, April 26th
+**Final Exam Date:** Tuesday December 12th @ 7-10pm
 
 We will release more exam logistics in Ed posts before each exam.
 
 
 ### Clobber
 
-Your Quiz 2 z-score will automatically clobber your Quiz 1 z-score if it improves your overall grade. Your Midterm 2 z-score will also automatically clobber your Midterm 1 z-score if it improves your overall grade.
+
 
 
 ## Grading
 
-
-
-* **Quizzes**: 15% each (30% total)
-* **Midterms**: 25% each (50% total)
-* **Labs**: 10% (We drop the lowest one score)
-* **Problem Sets**: 10% (We drop the lowest two scores)
+* **Midterms**: 20% each (40% total)
+* **Final**: 35%
+* **Labs**: 10% (We drop the lowest *_* score)
+* **Problem Sets**: 15% (We drop the lowest *_* scores)
 
 
 ## Optional Course Materials
