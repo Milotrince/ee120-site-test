@@ -7,8 +7,72 @@
 
 homeworks:
   ### Format:
-  # - due: "due date"
-  #   title: "additional title if neccassary"
+  # - title: "additional title if neccassary"
+  #   due: "due date"
   #   selfGrade: link to self grade form
   #   homework: link to the homework pdf
   #   solutions: link to the solutions pdf
+  - rowspan: 2 # Homework #1
+    due: 
+    selfGrade: 
+    homework: 
+    solutions: 
+  - rowspan: 2 # Homework #2 - Labor Day
+    due: 
+    selfGrade: 
+    homework: 
+    solutions: 
+  - rowspan: 2 # Homework #3
+    due: 
+    selfGrade: 
+    homework: 
+    solutions: 
+  - rowspan: 2 # Homework #4
+    due: 
+    selfGrade: 
+    homework: 
+    solutions: 
+  - rowspan: 3 # MT 1
+    nonumber: True
+  - rowspan: 2 # Homework #5
+    due: 
+    selfGrade: 
+    homework: 
+    solutions: 
+  - rowspan: 2 # Homework #6
+    due: 
+    selfGrade: 
+    homework: 
+    solutions: 
+  - rowspan: 2 # Homework #7
+    due: 
+    selfGrade: 
+    homework: 
+    solutions: 
+  - rowspan: 2 # Homework #8
+    due: 
+    selfGrade: 
+    homework: 
+    solutions: 
+  - rowspan: 3 # MT 2
+    nonumber: True
+  - rowspan: 2 # Homework #9 - Veterans Day
+    due: 
+    selfGrade: 
+    homework: 
+    solutions: 
+  - rowspan: 2 # Homework #10 - Thanksgiving
+    due: 
+    selfGrade: 
+    homework: 
+    solutions: 
+  - rowspan: 2 # Homework #11
+    due: 
+    selfGrade: 
+    homework: 
+    solutions: 
+  - rowspan: 2 # Homework #12
+    due: 
+    selfGrade: 
+    homework: 
+    solutions: 
