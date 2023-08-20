@@ -50,7 +50,7 @@ Conversion notes:
 
 All official course communication will be through Ed and bCourses. We will also maintain the course website for your convenience.
 
-You may contact the staff at *_*. This reaches all TAs, including Kannan.
+You may contact the staff at **[ee120-fa23-admin@lists.berkeley.edu](mailto:ee120-fa23-admin@lists.berkeley.edu)**. This reaches all TAs, including Professor Ramchandran.
 
 ## Gradescope
 
@@ -72,7 +72,7 @@ All assignments will be submitted through Gradescope. The code to join can be fo
 
 There are 3 discussion sections, all on Friday. **You can attend any discussion time you would like as long as there's enough room for everyone to sit comfortably.**.
 
-Discussions will be in-person, but we will post worksheet walkthrough videos after discussion. Walkthrough videos will be available in the Media Gallery on bCourses. The videos are not a substitute for the active learning that takes place in class. 
+Discussions will be in-person, but we will post worksheet walkthrough videos after the discussion. Walkthrough videos will be available in the Media Gallery on bCourses. The videos are not a substitute for the active learning that takes place in class. 
 
 We will post the worksheet to bCourses and Ed on Friday mornings, along with the TAs who will teach discussion that week.
 
@@ -95,28 +95,26 @@ We will post the worksheet to bCourses and Ed on Friday mornings, along with the
 
 ## Homework
 
-To enhance and gauge your fluency with the course content, we will have two types of homework assignments: problem sets and labs ([Jupyter notebook](https://jupyter.org/)-based coding assignments). You can expect **approximately one problem set per week**, and **5 labs** throughout the semester.
+To enhance and gauge your fluency with the course content, we will have two types of homework assignments: problem sets and labs ([Jupyter notebook](https://jupyter.org/)-based coding assignments). You can expect **approximately one problem set per week**, and **five labs** throughout the semester.
 
 
 ### Drops
 
-**We will automatically drop the *_* lowest problem set scores and *_* lowest lab score from your final grade**.
+**We will automatically drop the two lowest problem set scores and one lowest lab score from your final grade**. There will be chances to get more drops by filling out mid-semester feedback forms.
 
 
 ### Timeline
 
-As we cannot avoid releasing problem sets and labs in concurrent weeks, we will give you two weeks for each lab: **they will be released on Fridays and due two weeks later on Friday at 11:59pm.**
+As we cannot avoid releasing problem sets and labs in concurrent weeks, we will give you two weeks for each lab: **they will be released on Thursdays and due two weeks later on Wednesday at 11:59pm, with a grace period until Thursday (see the grace period section below)**
 
 
 ### Problem Set Logistics
 
-**Release**: Problem sets will typically be released on **Fridays** via bCourses. We will also announce on Ed when problem sets are released.
+**Release**: Problem sets will typically be released on **Tuesdays** via bCourses. We will also announce on Ed when problem sets are released.
 
-**Submission**: Problem sets will be due the following **Friday at 11:59pm** (you have **one week** to complete the assignment). Babak typically allows until 11:59pm two days after the due date for you to submit your problem set.  
+**Submission**: Problem sets will be due the following **Monday at 11:59pm, with a grace period until the following midnight on Tuesday (see the grace period section below)** (you have **one week** to complete the assignment).
 
 You will submit your work through **Gradescope**. You have several options for scanning and submitting your work:
-
-
 
 1. Print out the homework document and write your solutions on the printout. Then upload a PDF file of the scan.
 2. Write your solutions on this PDF file using a tablet device. Then upload a PDF file.
@@ -132,8 +130,6 @@ Labs are similar to problem sets, except they use Jupyter notebooks, an interact
 We will also provide .zip files of lab materials via bCourses if you want to work locally. Please note that we will have limited support for technical issues that arise while running labs locally.
 
 **Submission**:
-
-
 
 1. Run all cells before the grader.export() cell
 2. Save the notebook (ctrl-s or cmd-s should work)
@@ -158,7 +154,7 @@ As we cannot avoid releasing problem sets and labs in concurrent weeks, labs wil
 
 ### Grace Period
 
-Although problem sets and labs are due on Fridays, **you can submit, with no penalty, each of your assignments (problem sets and labs) until 11:59pm two days after the official due date of that assignment**; for example, for a typical Friday due date, you have a weekend’s worth of grace period for each assignment. This comes with two important caveats:
+Although problem sets and labs are due on Fridays, **you can submit, with no penalty, each of your assignments (problem sets and labs) until 11:59pm one day after the official due date of that assignment**. This comes with two important caveats:
 
 
 
@@ -180,7 +176,7 @@ The purpose of the self-grade assignments strategy is to encourage you to look o
 
 ### Timeline
 
-Self grades will be released, along with assignment solutions, when the grace period for the assignment ends. **Self grades will be due typically on the immediately subsequent Friday at 11:59pm, with a grace period until Sunday at 11:59pm**.
+Self grades will be released, along with assignment solutions, when the grace period for the assignment ends. **Self grades will be due typically on the immediately subsequent Monday at 11:59pm, with a grace period until Tuesday at 11:59pm**.
 
 
 ### Instructions
@@ -193,7 +189,7 @@ Self grades will be released, along with assignment solutions, when the grace pe
 2. Using the rubric below, give each problem a score from 0 to 5 and input your scores into the form.
 3. Download the file generated by pressing the button at the bottom of the form, and upload that file to the self-grade assignment on Gradescope.
     3. Ensure that the autograder runs properly. Contact course staff through a private post on Ed if you are having issues.
-4. In the week after self grades are due, we will checka random sample of self grades.
+4. In the week after self grades are due, we will check a random sample of self grades.
     4. We’ll check every student’s self grades at least once this semester.
     5. If there is a **large discrepancy** found between your self grade and the course staff-determined score, you run the risk of having that homework scored as a 0, and having your other self grades reviewed as well.
 
@@ -223,7 +219,7 @@ Self grades will be released, along with assignment solutions, when the grace pe
 Office hour times and locations are available on the Calendar page of the course website. We have a combination of in-person and remote options: each office hour will have a room number, Zoom link, or both listed.
 
 ## Homework Party
-We offer a two-hour homework party on _ from _ where you can ask questions about the problem sets and labs. The location and Zoom information is listed on the Calendar page of the website. Typically, two TAs will staff homework party each week.
+We offer a two-hour homework party on TBD from TBD where you can ask questions about the problem sets and labs. The location and Zoom information is listed on the Calendar page of the website. Typically, two TAs will staff homework party each week.
 
 
 ## Exams
@@ -238,16 +234,14 @@ We will release more exam logistics in Ed posts before each exam.
 
 
 ### Clobber
-
-
-
+We will be using a clobber policy where your final can replace your grade for either MT1 or MT2, but not both. Your lower midterm score in terms of z-score will be clobbered by the final based on z-score, allowing you to miss a midterm.
 
 ## Grading
 
 * **Midterms**: 20% each (40% total)
 * **Final**: 35%
-* **Labs**: 10% (We drop the lowest *_* score)
-* **Problem Sets**: 15% (We drop the lowest *_* scores)
+* **Labs**: 10% (We drop the lowest score)
+* **Problem Sets**: 15% (We drop the two lowest scores)
 
 
 ## Optional Course Materials
