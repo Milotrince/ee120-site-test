@@ -50,7 +50,7 @@ Conversion notes:
 
 All official course communication will be through Ed and bCourses. We will also maintain the course website for your convenience.
 
-You may contact the staff at *ee120-fa23-admin@lists.berkeley.edu*. This reaches all TAs, including Professor Ramchandran.
+You may contact the staff at **[ee120-fa23-admin@lists.berkeley.edu](mailto:ee120-fa23-admin@lists.berkeley.edu)**. This reaches all TAs, including Professor Ramchandran.
 
 ## Gradescope
 
@@ -95,12 +95,12 @@ We will post the worksheet to bCourses and Ed on Friday mornings, along with the
 
 ## Homework
 
-To enhance and gauge your fluency with the course content, we will have two types of homework assignments: problem sets and labs ([Jupyter notebook](https://jupyter.org/)-based coding assignments). You can expect **approximately one problem set per week**, and **5 labs** throughout the semester.
+To enhance and gauge your fluency with the course content, we will have two types of homework assignments: problem sets and labs ([Jupyter notebook](https://jupyter.org/)-based coding assignments). You can expect **approximately one problem set per week**, and **five labs** throughout the semester.
 
 
 ### Drops
 
-**We will automatically drop the *2* lowest problem set scores and *1* lowest lab score from your final grade**. There will be chances to get more drops by filling out mid-semester feedback forms.
+**We will automatically drop the two lowest problem set scores and one lowest lab score from your final grade**. There will be chances to get more drops by filling out mid-semester feedback forms.
 
 
 ### Timeline
@@ -130,8 +130,6 @@ Labs are similar to problem sets, except they use Jupyter notebooks, an interact
 We will also provide .zip files of lab materials via bCourses if you want to work locally. Please note that we will have limited support for technical issues that arise while running labs locally.
 
 **Submission**:
-
-
 
 1. Run all cells before the grader.export() cell
 2. Save the notebook (ctrl-s or cmd-s should work)
