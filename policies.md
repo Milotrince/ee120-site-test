@@ -61,7 +61,7 @@ All assignments will be submitted through Gradescope. The code to join can be fo
 
 **Time**: Mon/Wed 3-5pm
 
-**Location**: Anthropology and Art Practice Building
+**Location**: Anthropology and Art Practice Building 160
 
 **Recordings**: Will be posted to the course website and the individual lecture threads on Ed.
 
