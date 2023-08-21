@@ -1,7 +1,8 @@
 # Follow the steps on https://fullcalendar.io/docs/v4/google-calendar until "Getting Set Up" to obtain the google_calendar_id.
 
 google_api_key: AIzaSyBM2NnPMx5rgCK8fZaG5X1qNcSiW-CRkRg
-google_calendar_id: c_d448b953776268f2bd9d8ed6a9ccc53f322e6c3e5659fceb44b7ddb18c99050f@group.calendar.google.com # replace this
+google_calendar_id: c_8ea55efcf828ddcff255ab717b827e5d67344a69fabbde34cad7ad27d960161e@group.calendar.google.com # replace this
+google_calendar_link: https://calendar.google.com/calendar/embed?src=c_8ea55efcf828ddcff255ab717b827e5d67344a69fabbde34cad7ad27d960161e%40group.calendar.google.com&ctz=America%2FLos_Angeles
 min_time: '09:00:00'
 max_time: '21:00:00'
 
@@ -15,8 +16,8 @@ event_types:
   - needle: Exam Prep
     color: '#6f42c1'
     text_color: '#ffffff'
-  - needle: Extended
-    color: '#198754'
+  - needle: Review Session
+    color: '#6f42c1'
     text_color: '#ffffff'
   - needle: Office Hours
     color: '#dc3545'
@@ -25,7 +26,7 @@ event_types:
     color: '#fd7e14'
     text_color: '#ffffff'
   - needle: Lecture
-    color: '#888888'
+    color: '#198754'
     text_color: '#ffffff'
 
 remove_prefix: "[EE 120]"

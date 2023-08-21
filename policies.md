@@ -50,7 +50,7 @@ Conversion notes:
 
 All official course communication will be through Ed and bCourses. We will also maintain the course website for your convenience.
 
-You may contact the staff at **[ee120-fa23-admin@lists.berkeley.edu](mailto:ee120-fa23-admin@lists.berkeley.edu)**. This reaches all TAs, including Professor Ramchandran.
+You may contact the staff at **[ee120-fa23-admin@lists.berkeley.edu](mailto:ee120-fa23-admin@lists.berkeley.edu)**. This reaches both head TAs and Professor Ramchandran.
 
 ## Gradescope
 
@@ -63,24 +63,25 @@ All assignments will be submitted through Gradescope. The code to join can be fo
 
 **Location**: Anthropology and Art Practice Building 160
 
-**Recordings**: Will be posted to the course website and the individual lecture threads on Ed.
+**Recordings**: Lecture recordings will be posted to the course website and the individual lecture threads on Ed. However, we reserve the right to withhold recordings if lecture attendance is too low.
 
 **Lecture Threads**: There will be an Ed thread for each lecture where you can ask questions about lecture topics.
 
 
 ## Discussion
 
-There are 3 discussion sections, all on Friday. **You can attend any discussion time you would like as long as there's enough room for everyone to sit comfortably.**.
+There are 4 discussion sections, all on Friday. **You can attend any discussion time you would like as long as there's enough room for everyone to sit comfortably.**
 
 Discussions will be in-person, but we will post worksheet walkthrough videos after the discussion. Walkthrough videos will be available in the Media Gallery on bCourses. The videos are not a substitute for the active learning that takes place in class. 
 
-We will post the worksheet to bCourses and Ed on Friday mornings, along with the TAs who will teach discussion that week.
+We will post the worksheet to bCourses and Ed on Friday mornings.
 
 **Times and Locations:**
 
 * Fri 10-11am in Cory 540AB
 * Fri 1-2pm in Wheeler 130
 * Fri 2-3pm in Evans 3
+* Fri TBD
 
 **Attendance**: We do _not_ take attendance for lecture or discussion. Nevertheless, we highly recommend that you attend both as frequently as possible to stay caught up with the material, and also for the staff to get to know you. At the end of the semester, when we decide on final grades, intense discussions take place about students who fall near grade boundaries. If you're in that situation, it's of potential benefit to you if at least one member of the staff knows you enough to advocate for you and comment on your classroom performance. 
 
@@ -95,24 +96,14 @@ We will post the worksheet to bCourses and Ed on Friday mornings, along with the
 
 ## Homework
 
-To enhance and gauge your fluency with the course content, we will have two types of homework assignments: problem sets and labs ([Jupyter notebook](https://jupyter.org/)-based coding assignments). You can expect **approximately one problem set per week**, and **five labs** throughout the semester.
-
-
-### Drops
-
-**We will automatically drop the two lowest problem set scores and one lowest lab score from your final grade**. There will be chances to get more drops by filling out mid-semester feedback forms.
-
-
-### Timeline
-
-As we cannot avoid releasing problem sets and labs in concurrent weeks, we will give you two weeks for each lab: **they will be released on Thursdays and due two weeks later on Wednesday at 11:59pm, with a grace period until Thursday (see the grace period section below)**
+To enhance and gauge your fluency with the course content, we will have two types of homework assignments: problem sets and labs ([Jupyter notebook](https://jupyter.org/)-based coding assignments). You can expect **approximately one problem set per week**, and **six labs** throughout the semester.
 
 
 ### Problem Set Logistics
 
 **Release**: Problem sets will typically be released on **Tuesdays** via bCourses. We will also announce on Ed when problem sets are released.
 
-**Submission**: Problem sets will be due the following **Monday at 11:59pm, with a grace period until the following midnight on Tuesday (see the grace period section below)** (you have **one week** to complete the assignment).
+**Submission**: Problem sets will be due the following **Monday at 11:59pm, with a grace period until the following Tuesday at 11:59pm (see the grace period section below)** (you have **one week** to complete the assignment).
 
 You will submit your work through **Gradescope**. You have several options for scanning and submitting your work:
 
@@ -123,7 +114,7 @@ You will submit your work through **Gradescope**. You have several options for s
 
 ### Lab Logistics
 
-Labs are similar to problem sets, except they use Jupyter notebooks, an interactive web-based tool for running Python code. Labs provide an opportunity to see real-world applications of EE 120 material.
+Labs are interactive assignments that utilize Jupyter notebooks, an interactive web-based tool for running Python code. Labs provide an opportunity to see real-world applications of EE 120 material.
 
 **Release**: Typically, labs will be released on **Fridays via Ed**. They will be released on **Datahub**, an online platform for running Jupyter notebooks; we will provide a Datahub link for each lab.
 
@@ -137,7 +128,7 @@ We will also provide .zip files of lab materials via bCourses if you want to wor
 4. Download the zip file produced by grader.export()
 5. Upload the zip file to the Gradescope.
 
-As we cannot avoid releasing problem sets and labs in concurrent weeks, labs will be due **two weeks after they are released, on Friday at 11:59pm**.
+As we cannot avoid releasing problem sets and labs in concurrent weeks, labs will be due **two weeks after they are released, on Thursday at 11:59pm, with a grace period until the following Friday at 11:59pm.**
 
 **Notes on Autograding**:
 
@@ -152,9 +143,14 @@ As we cannot avoid releasing problem sets and labs in concurrent weeks, labs wil
 * We'll release full autograder scores during the week after the lab is due.
 
 
+### Drops
+
+**We will automatically drop the lowest problem set score and the lowest lab score, excluding lab 6, from your final grade**. There will be a chance to get one more problem set drop by filling out the mid-semester feedback form.
+
+
 ### Grace Period
 
-Although problem sets and labs are due on Fridays, **you can submit, with no penalty, each of your assignments (problem sets and labs) until 11:59pm one day after the official due date of that assignment**. This comes with two important caveats:
+Although problem sets are due on Mondays and labs are due on Thursdays, **you can submit, with no penalty, each of your assignments (problem sets and labs) until 11:59pm, one day after the official due date of that assignment**. This comes with two important caveats:
 
 
 
@@ -176,7 +172,7 @@ The purpose of the self-grade assignments strategy is to encourage you to look o
 
 ### Timeline
 
-Self grades will be released, along with assignment solutions, when the grace period for the assignment ends. **Self grades will be due typically on the immediately subsequent Monday at 11:59pm, with a grace period until Tuesday at 11:59pm**.
+Self grades will be released, along with assignment solutions, when the grace period for the assignment ends. **Self grades will be due typically one week after the assignment was due at 11:59pm, with a grace period until the next day at 11:59pm.** To clarify, problem set self grades will be due on the immediate following Monday at 11:59pm, with a grace period until the following Tuesday at 11:59pm. Lab self grades will be due on the immediate following Thursday at 11:59pm, with a grace period until the following Friday at 11:59pm.
 
 
 ### Instructions
@@ -241,7 +237,7 @@ We will be using a clobber policy where your final can replace your grade for ei
 * **Midterms**: 20% each (40% total)
 * **Final**: 35%
 * **Labs**: 10% (We drop the lowest score)
-* **Problem Sets**: 15% (We drop the two lowest scores)
+* **Problem Sets**: 15% (We drop the lowest score)
 
 
 ## Optional Course Materials
