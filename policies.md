@@ -76,14 +76,18 @@ Discussions will be in-person, but we will post worksheet walkthrough videos aft
 
 We will post the worksheet to bCourses and Ed on Friday mornings.
 
-**Times and Locations:**
+### Times and Locations
 
 * Fri 10-11am in Cory 540AB
 * Fri 1-2pm in Wheeler 130
 * Fri 2-3pm in Evans 3
 * Fri 3-4pm in Evans 3
 
-**Attendance**: We do _not_ take attendance for lecture or discussion. Nevertheless, we highly recommend that you attend both as frequently as possible to stay caught up with the material, and also for the staff to get to know you. At the end of the semester, when we decide on final grades, intense discussions take place about students who fall near grade boundaries. If you're in that situation, it's of potential benefit to you if at least one member of the staff knows you enough to advocate for you and comment on your classroom performance. 
+### Attendance
+
+Attendance for lecture and discussion is not required. However, if you attend at least 10 discussions, **we will add 1% to your final grade**.
+
+Nevertheless, we highly recommend that you attend lecture and discussion as frequently as possible to stay caught up with the material, and also for the staff to get to know you. At the end of the semester, when we decide on final grades, intense discussions take place about students who fall near grade boundaries. If you're in that situation, it's of potential benefit to you if at least one member of the staff knows you enough to advocate for you and comment on your classroom performance. 
 
 
 **The first discussion is Friday, September 1st**.
