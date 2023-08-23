@@ -44,6 +44,24 @@ Conversion notes:
 * Source doc: Syllabus
 ----->
 
+## Tentative List of Topics
+
+Over the course of the semester, we plan to cover the following topics (in this general order):
+1. DT signals: Impulse and step functions in discrete time
+2. Linearity, time-invariance, DT-LTI properties, convolution, LCCDE and block diagrams:
+Delay-Adder-Gain (DAG) blocks
+3. Complex exponentials, eigenfunctions of LTI systems, frequency response, plots of
+magnitude and phase response
+4. BIBO stability, causality, state-space representation
+5. CT signals: Dirac Delta, CT-LTI systems, frequency response, BIBO stability, LCCDE and
+block diagrams: Integrate-Adder-Gain (IAG) blocks, feedback systems
+6. Vector space representation basics: gentle introduction to Hilbert space of functions
+7. Fourier analysis for DT and CT for periodic (FS) and aperiodic (FT) signals: stress vector
+space viewpoint, FFT and time-frequency uncertainty theorem
+8. Sampling theorem: bridging CT and DT; reconstruction, interpolation, oversampling,
+subsampling, gentle introduction to multi-rate processing systems
+9. Z transform
+10. Laplace transform
 
 
 ## Communication
