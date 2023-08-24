@@ -13,66 +13,66 @@ homeworks:
   #   homework: link to the homework pdf
   #   solutions: link to the solutions pdf
   - rowspan: 2 # Homework #1
-    due: 
+    homework: https://bcourses.berkeley.edu/courses/1527328/files/folder/EE120-FA23-HW/EE120-FA23-HW01?preview=86643559
+    due: "Mon, Aug 28"
     selfGrade: 
-    homework: 
     solutions: 
   - rowspan: 2 # Homework #2 - Labor Day
+    homework: 
     due: 
     selfGrade: 
-    homework: 
     solutions: 
   - rowspan: 2 # Homework #3
+    homework: 
     due: 
     selfGrade: 
-    homework: 
     solutions: 
   - rowspan: 2 # Homework #4
+    homework: 
     due: 
     selfGrade: 
-    homework: 
     solutions: 
   - rowspan: 3 # MT 1
     nonumber: True
   - rowspan: 2 # Homework #5
+    homework: 
     due: 
     selfGrade: 
-    homework: 
     solutions: 
   - rowspan: 2 # Homework #6
+    homework: 
     due: 
     selfGrade: 
-    homework: 
     solutions: 
   - rowspan: 2 # Homework #7
+    homework: 
     due: 
     selfGrade: 
-    homework: 
     solutions: 
   - rowspan: 2 # Homework #8
+    homework: 
     due: 
     selfGrade: 
-    homework: 
     solutions: 
   - rowspan: 3 # MT 2
     nonumber: True
   - rowspan: 2 # Homework #9 - Veterans Day
+    homework: 
     due: 
     selfGrade: 
-    homework: 
     solutions: 
   - rowspan: 2 # Homework #10 - Thanksgiving
+    homework: 
     due: 
     selfGrade: 
-    homework: 
     solutions: 
   - rowspan: 2 # Homework #11
+    homework: 
     due: 
     selfGrade: 
-    homework: 
     solutions: 
   - rowspan: 2 # Homework #12
+    homework: 
     due: 
     selfGrade: 
-    homework: 
     solutions: 
