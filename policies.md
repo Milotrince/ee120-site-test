@@ -79,7 +79,7 @@ All assignments will be submitted through Gradescope. The code to join can be fo
 
 **Time**: Mon/Wed 3-5pm
 
-**Location**: Anthropology and Art Practice Building 160
+**Location**: Physics Building 4 (directly east of the Campanile; the room should be near the entrance to the building)
 
 **Recordings**: Lecture recordings will be posted to the course website and the individual lecture threads on Ed. However, we reserve the right to withhold recordings if lecture attendance is too low.
 
