@@ -43,20 +43,10 @@ description: A listing of all the course staff members.
 {% endfor %}
 {% endif %}
 
-{% assign tutors = site.staffers | where: 'role', 'Tutor' %}
-{% assign num_tutors = tutors | size %}
-{% if num_tutors != 0 %}
-## Tutors (UCS1)
-
-{% for staffer in tutors %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
-
 {% assign readers = site.staffers | where: 'role', 'Reader' %}
 {% assign num_readers = readers | size %}
 {% if num_readers != 0 %}
-## Readers
+## Readers (UCS1)
 
 {% for staffer in readers %}
 {{ staffer }}
