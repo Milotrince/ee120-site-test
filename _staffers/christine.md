@@ -1,5 +1,5 @@
 ---
-role: Tutor
+role: TA
 name: Christine Zhang
 photo: christine.JPG
 email: cyuzhang@

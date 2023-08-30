@@ -1,5 +1,5 @@
 ---
-role: Tutor
+role: TA
 name: Jin Wei Wong
 photo: jin.jpeg
 email: jinwei@
