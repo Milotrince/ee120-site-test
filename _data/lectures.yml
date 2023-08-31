@@ -13,7 +13,7 @@ lectures:
     recording: https://www.youtube.com/watch?v=yZpaTOFhJwc&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp&index=3
   - title: "Lecture 3"
     nonumber: True
-    edThread: 
+    edThread: https://edstem.org/us/courses/42820/discussion/3364924
     recording: 
   - title: "No Lecture (Academic Holiday)"
     nonumber: True
