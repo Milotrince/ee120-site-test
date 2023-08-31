@@ -1,7 +1,7 @@
 #####################################
 # Instructions for updating website #
 #####################################
-# 1. Add another selection to this data file, with the necassary information
+# 1. Add another selection to this data file, with the necessary information
 #   a. Follow the format provided by previous examples
 
 
@@ -14,9 +14,9 @@ discussions:
   - rowspan: 1 # No discussion
     nonumber: True
   - rowspan: 2
-    title: # 'Discussion #1'
+    title: 'Discussion #1'
     nonumber: True
-    worksheet: 
+    worksheet: 'https://bcourses.berkeley.edu/courses/1527328/files/folder/EE120-FA23-DISC?preview=86710148'
     solutions: 
     walkthrough: 
   - rowspan: 2
