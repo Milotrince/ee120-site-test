@@ -13,12 +13,12 @@ homeworks:
   #   homework: link to the homework pdf
   #   solutions: link to the solutions pdf
   - rowspan: 2 # Homework #1
-    homework: https://bcourses.berkeley.edu/courses/1527328/files/folder/EE120-FA23-HW/EE120-FA23-HW01?preview=86643559
+    homework: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2001?preview=86643559
     due: "Mon, Aug 28"
     selfGrade: https://ee120-course-staff.github.io/selfgrade-form/homework-1
-    solutions: https://bcourses.berkeley.edu/courses/1527328/files/folder/EE120-FA23-HW/EE120-FA23-HW01?preview=86724994
+    solutions: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2001?preview=86724994
   - rowspan: 2 # Homework #2 - Labor Day
-    homework: https://bcourses.berkeley.edu/courses/1527328/files/folder/EE120-FA23-HW/EE120-FA23-HW02?preview=86714485
+    homework: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2002?preview=86714485
     due: "Tue, Sep 5"
     selfGrade: 
     solutions: 
