@@ -19,8 +19,8 @@ lectures:
     nonumber: True
   - title: "Lecture 4"
     nonumber: True
-    edThread: 
-    recording: 
+    edThread:  https://edstem.org/us/courses/24720/discussion/3380454
+    recording:  https://www.youtube.com/watch?v=yZpaTOFhJwc&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 5"
     nonumber: True
     edThread: 
